@@ -1,0 +1,667 @@
+<attribute> Ai:{qtag:WH:B} có:{} bút danh:{qtag:N_W:B} là:{} Đoàn Công Nhân:{qtag:Obj:B} ?:{} 
+<attribute> Ai:{qtag:WH:B} được:{} coi:{qtag:V_W:B} là:{qtag:V_W:I} truyền nhân:{qtag:D_Attr:B} của:{} Maradona:{qtag:Obj:B} ?:{} 
+<attribute> Ai:{qtag:WH:B} được:{} gọi là:{qtag:V_W:B} Cậu:{qtag:N_W:B} bé:{qtag:N_W:I} vàng:{qtag:N_W:I} ?:{} 
+<attribute> Ai:{qtag:WH:B} được:{} gọi là:{qtag:V_W:B} Hoàng đế:{qtag:N_W:B} trong:{} làng:{} bóng đá:{qtag:Obj:B} thế giới:{qtag:Obj:I} ?:{} 
+<attribute> Ai:{qtag:WH:B} được:{} gọi là:{qtag:V_W:B} Người:{qtag:Obj:B} ngoài:{qtag:Obj:I} hành tinh:{qtag:Obj:I} ?:{} 
+<attribute> Ai:{qtag:WH:B} được:{} gọi là:{qtag:V_W:B} vua:{qtag:D_Attr:B} bóng đá:{qtag:Obj:I} ?:{} 
+<attribute> Ai:{qtag:WH:B} được:{} gọi:{qtag:V_W:B} là:{qtag:V_W:I} Liễu Tuyền:{qtag:Obj:B} cư sĩ:{qtag:Obj:I} ?:{} 
+<attribute> Ai:{qtag:WH:B} được:{} mệnh danh:{qtag:V_W:B} là:{} chàng:{qtag:D_Attr:B} Don Juan Hollywood:{qtag:Obj:B} ?:{} 
+<attribute> ai:{qtag:WH:B} được:{} mệnh danh:{qtag:V_W:B} là:{} nữ hoàng:{qtag:N_W:B} sân khấu:{qtag:N_W:I} của:{} miền:{qtag:Obj:B} Nam:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} giai đoạn:{qtag:D_Time:B} 1972-1978:{qtag:D_Time:I} ?:{} 
+<attribute> Ai:{qtag:WH:B} được:{} mệnh danh:{qtag:V_W:B} là:{} Nữ hoàng:{qtag:N_W:B} tốc độ:{qtag:N_W:I} của:{} Việt Nam:{qtag:Obj:B} ?:{} 
+<attribute> Ai:{qtag:WH:B} được:{qtag:V_W:B} mệnh danh:{qtag:V_W:I} là:{} Ông:{qtag:N_W:B} Nghị:{qtag:N_W:I} của:{qtag:N_W:I} người:{qtag:N_W:I} nghèo:{qtag:N_W:I} ?:{} 
+<attribute> Bà:{qtag:Obj:B} Từ Cung:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<attribute> Biệt danh:{qtag:Obj:B} Búp bê:{qtag:Obj:I} của:{} ca sỹ:{qtag:D_Attr:B} nào:{qtag:WH:B} ?:{} 
+<attribute> Biệt danh:{qtag:Obj:B} Chanh:{qtag:Obj:I} là:{} của:{} ca sỹ:{qtag:D_Attr:B} nào:{qtag:WH:B} ?:{}  
+<attribute> Biệt hiệu:{qtag:Obj:B} Linh Quân:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<attribute> Bố Cái Đại Vương:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<attribute> Ca sĩ:{qtag:D_Attr:B} nào:{qtag:WH:B} có:{qtag:V_W:B} biệt danh:{qtag:N_W:I} là:{} cô:{qtag:N_W:B} gái:{qtag:N_W:I} vật chất:{qtag:N_W:I} ?:{} 
+<attribute> Ca sĩ:{qtag:D_Attr:B} nào:{qtag:WH:B} được:{} gọi:{qtag:V_W:B} là:{qtag:V_W:I} công chúa:{qtag:Obj:B} nhạc:{qtag:Obj:I} pop:{qtag:Obj:I} ?:{} 
+<attribute> ca sĩ:{qtag:D_Attr:B} nào:{qtag:WH:B} được:{} người:{qtag:N_W:B} hâm mộ:{qtag:N_W:I} gọi:{qtag:V_W:B} là:{qtag:V_W:I} họa mi:{qtag:Obj:B} tóc:{qtag:Obj:I} nâu:{qtag:Obj:I} ?:{} 
+<attribute> ca sỹ:{qtag:D_Attr:B} nào:{qtag:WH:B} có:{} tên:{qtag:N_W:B} thật:{qtag:N_W:I} là:{} Trần Thị Thúy Loan:{qtag:Obj:B} ?:{} 
+<attribute> Ca sỹ:{qtag:D_Attr:B} nào:{qtag:WH:B} được:{} gọi:{qtag:V_W:B} là:{qtag:V_W:I} Họa Mi:{qtag:N_W:B} của:{qtag:N_W:I} núi rừng:{qtag:N_W:I} Tây Nguyên:{qtag:N_W:I} 
+<attribute> Ca sỹ:{qtag:D_Attr:B} nào:{qtag:WH:B} Việt Nam:{qtag:D_Loc:B} tên:{qtag:N_W:B} có:{qtag:N_W:I} nghĩa là:{qtag:N_W:I} Đèn trời:{qtag:Obj:B} ?:{} 
+<attribute> Cô Bống:{qtag:Obj:B} là:{} tên:{qtag:N_W:B} thân mật:{qtag:N_W:I} của:{} ca sỹ:{qtag:D_Attr:B} nào:{qtag:WH:B} ?:{} 
+<attribute> Diễn viên:{qtag:D_Attr:B} có:{} biệt danh:{qtag:Obj:B} én:{qtag:Obj:I} nhỏ:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{}  
+<attribute> Đông Pha:{qtag:Obj:B} cư sĩ:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<attribute> Giáo sư:{qtag:D_Attr:B} cơ khí:{qtag:D_Attr:I} của:{} Việt Nam:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<attribute> Giáo sư:{qtag:D_Attr:B} hóa học:{qtag:D_Attr:I} của:{} Việt Nam:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<attribute> Giáo sư:{qtag:D_Attr:B} nông học:{qtag:D_Attr:I} của:{} Việt Nam:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<attribute> Giọng ca:{qtag:D_Attr:B} nào:{qtag:WH:B} được:{} coi:{qtag:V_W:B} là:{qtag:V_W:I} trụ cột:{qtag:N_W:B} của:{} trung tâm:{qtag:Obj:B} Thúy Nga:{qtag:Obj:I} 
+<attribute> Lý Nam Đế:{qtag:Obj:B} giao lại:{qtag:V_W:B} quyền:{qtag:V_W:I} cho:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<attribute> người:{} được:{} mệnh danh:{qtag:V_W:B} bà:{qtag:Obj:B} chúa:{qtag:Obj:I} thơ nôm:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<attribute> nhà thơ:{qtag:D_Attr:B} nào:{qtag:WH:B} được:{} gọi là:{qtag:V_W:B} Tam nguyên:{qtag:N_W:B} yên đỗ:{qtag:N_W:I} ?:{} 
+<attribute> Nhà thơ:{qtag:D_Attr:B} nào:{qtag:WH:B} được:{} mệnh danh:{qtag:V_W:B} là:{} ngôi sao:{qtag:Obj:B} chổi:{qtag:Obj:I} xoẹt:{qtag:Obj:I} qua:{qtag:Obj:I} bầu trời:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} ?:{} 
+<attribute> Nhà văn:{qtag:D_Attr:B} nào:{qtag:WH:B} có:{} biệt hiệu:{qtag:N_W:B} là:{} Bác Nam Sơn nhân:{qtag:Obj:B} ?:{} 
+<attribute> Nhà văn:{qtag:D_Attr:B} nào:{qtag:WH:B} có:{} biệt hiệu:{qtag:N_W:B} là:{} Hồng Lâu ngoại sĩ:{qtag:Obj:B} ?:{} 
+<attribute> Nhà văn:{qtag:D_Attr:B} nào:{qtag:WH:B} có:{} hiệu:{qtag:N_W:B} là:{} Thăng Am:{qtag:Obj:B} ?:{} 
+<attribute> Nhà văn:{qtag:D_Attr:B} nào:{qtag:WH:B} có:{} hiệu:{qtag:N_W:B} là:{} Tráng Phi:{qtag:Obj:I} ?:{}
+<attribute> Nhà văn:{qtag:D_Attr:B} nào:{qtag:WH:B} có:{} tự:{qtag:N_W:B} là:{qtag:N_W:I} Lan Thự:{qtag:Obj:B} ?:{} 
+<attribute> Nhà văn:{qtag:D_Attr:B} nào:{qtag:WH:B} được:{} coi:{qtag:V_W:B} là:{qtag:V_W:I} Shakespeare:{qtag:Obj:B} của:{qtag:Obj:I} Trung Quốc:{qtag:Obj:I} ?:{} 
+<attribute> Nhà văn:{qtag:D_Attr:B} nào:{qtag:WH:B} lấy hiệu:{qtag:V_W:B} là:{} Văn Mộc:{qtag:Obj:B} lão nhân:{qtag:Obj:I} 
+<attribute> Nhà văn:{qtag:D_Attr:B} Trung Quốc:{qtag:D_Loc:B} nào:{qtag:WH:B} có:{} tên:{qtag:N_W:B} chữ:{qtag:N_W:I} là:{} Bình Trọng:{qtag:Obj:B} 
+<attribute> Nhạc sỹ:{qtag:D_Attr:B} nào:{qtag:WH:B} được:{} mệnh danh:{qtag:V_W:B} là:{} người:{qtag:Obj:B} du ca:{qtag:Obj:I} ở:{qtag:D_Loc:B} Việt nam:{qtag:D_Loc:I} ?:{} 
+<attribute> Nhạc sỹ:{qtag:D_Attr:B} nào:{qtag:WH:B} được:{} mệnh danh:{qtag:V_W:B} là:{} nhạc sỹ:{qtag:Obj:B} của:{qtag:Obj:I} tuổi thơ:{qtag:Obj:I} ?:{} 
+<attribute> Ông:{} nào:{qtag:WH:B} có:{} hiệu:{qtag:N_W:B} là:{} Hải Lượng:{qtag:Obj:I} 
+<attribute> Tên chữ:{qtag:N_W:B} Trưởng Khan:{qtag:Obj:B}h:{} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<attribute> Thương Ưởng:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<attribute> Trần Đăng Ninh:{qtag:Obj:B} có:{} tên:{qtag:N_W:B} khác:{qtag:N_W:I} là:{qtag:WH:B} gì:{qtag:WH:I} ?:{} 
+<attribute> Vị:{qtag:D_Attr:B} vua:{qtag:D_Attr:I} nào:{qtag:WH:B} có:{} tên:{qtag:N_W:B} thật:{qtag:N_W:I} là:{} Lý Phật Mã:{qtag:Obj:B} ?:{} 
+<capability> Ai:{qtag:WH:B} chỉ huy:{qtag:V_W:B} trận:{qtag:Obj:B} Bạch Đằng:{qtag:Obj:I} nổi tiếng:{qtag:A_W:B} ?:{} 
+<capability> Ai:{qtag:WH:B} cho:{qtag:V_W:B} xây dựng:{qtag:V_W:I} kinh đô:{qtag:Obj:B} Huế:{qtag:Obj:I} tương tự:{qtag:A_W:B} như:{} Tử Cấm Thành:{qtag:Obj:B} ?:{} 
+<capability> Ai:{qtag:WH:B} có:{} thu nhập:{qtag:N_W:B} cao:{qtag:A_W:B} nhất:{qtag:A_W:I} Hollywood:{qtag:Obj:B} năm:{qtag:D_Time:B} 2010:{qtag:D_Time:I} ?:{} 
+<capability> Ai:{qtag:WH:B} đã:{} giành:{qtag:V_W:B} ngôi:{qtag:Obj:B} vị:{qtag:Obj:I} thần tượng:{qtag:Obj:I} âm nhạc:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} 2010:{qtag:D_Time:B} ?:{} 
+<capability> Ai:{qtag:WH:B} đã:{} nghiên cứu:{qtag:V_W:B} sản xuất:{qtag:V_W:I} thành công:{qtag:A_W:B} Penicilin:{qtag:Obj:B} ?:{} 
+<capability> Ai:{qtag:WH:B} đang:{} nắm:{qtag:V_W:B} giữ:{qtag:V_W:I} kỷ lục:{qtag:N_W:B} ghi:{qtag:N_W:I} bàn:{qtag:N_W:I} tại:{} cúp:{qtag:Obj:B} C1:{qtag:Obj:I} Châu Âu:{qtag:Obj:I} ?:{} 
+<capability> Ai:{qtag:WH:B} đang:{} nắm:{qtag:V_W:B} giữ:{qtag:V_W:I} kỷ lục:{qtag:N_W:B} không:{qtag:N_W:I} để:{qtag:N_W:I} lọt:{qtag:N_W:I} lưới:{qtag:N_W:I} ở:{} giải ngoại:{qtag:Obj:B} hạng:{qtag:Obj:I} Anh:{qtag:Obj:I} ?:{} 
+<capability> Ai:{qtag:WH:B} đang:{} nắm:{qtag:V_W:B} giữ:{qtag:V_W:I} kỷ lục:{qtag:N_W:B} về:{qtag:N_W:I} số:{qtag:N_W:I} huy chương:{qtag:N_W:I} đạt:{qtag:N_W:I} được:{qtag:N_W:I} tại:{} một:{} kỳ:{qtag:D_Time:B} Thế vận hội:{qtag:Obj:B} ?:{} 
+<capability> Ai:{qtag:WH:B} đang:{} nắm:{qtag:V_W:B} giữ:{qtag:V_W:I} kỷ lục:{qtag:Obj:B} chạy:{qtag:Obj:I} 100m:{qtag:Obj:I} ?:{} 
+<capability> Ai:{qtag:WH:B} đang:{} nắm:{qtag:V_W:B} giữ:{qtag:V_W:I} nhiều:{qtag:A_W:B} danh hiệu:{qtag:N_W:B} Grand Slam:{qtag:N_W:I} nhất:{qtag:A_W:I} trong:{} làng:{qtag:Obj:B} quần vợt:{qtag:Obj:I} ?:{} 
+<capability> Ai:{qtag:WH:B} đánh bại:{qtag:V_W:B} nhà:{qtag:Obj:B} Tây Sơn:{qtag:Obj:I} năm:{qtag:D_Time:B} 1802:{qtag:D_Time:I} ?:{} 
+<capability> ai:{qtag:WH:B} đạt:{qtag:V_W:B} giải:{qtag:N_W:B} ca sĩ:{qtag:N_W:I} triển vọng:{qtag:N_W:I} của:{} Làn sóng Xanh:{qtag:Obj:B} năm:{qtag:D_Time:B} 2005:{qtag:D_Time:I} ?:{} 
+<capability> Ai:{qtag:WH:B} đoạt:{qtag:V_W:B} giải thưởng:{qtag:Obj:B} Hồ Chí Minh:{qtag:Obj:I} với:{} các:{qtag:N_W:B} đề tài:{qtag:N_W:I} về:{qtag:N_W:I} chống nhiễu:{qtag:N_W:I} ?:{} 
+<capability> ai:{qtag:WH:B} đoạt:{qtag:V_W:B} giải:{qtag:N_W:B} nữ:{qtag:N_W:I} diễn viên:{qtag:N_W:I} xuất sắc:{qtag:N_W:I} nhất:{qtag:N_W:I} tại:{} giải:{qtag:Obj:B} cánh diều vàng:{qtag:Obj:I} ?:{} 
+<capability> ai:{qtag:WH:B} đoạt:{qtag:V_W:B} giải:{qtag:N_W:B} nữ:{qtag:N_W:I} diễn viên:{qtag:N_W:I} xuất sắc:{qtag:N_W:I} nhất:{qtag:N_W:I} tại:{} LHP:{qtag:Obj:B} Quốc tế:{qtag:Obj:I} lần:{qtag:D_Time:B} thứ:{qtag:D_Time:I} nhất:{qtag:D_Time:I} ?:{} 
+<capability> ai:{qtag:WH:B} đoạt:{qtag:V_W:B} giải:{qtag:Obj:B} hoa hậu:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} năm:{qtag:D_Time:B} 2010:{qtag:D_Time:I} ?:{} 
+<capability> Ai:{qtag:WH:B} đoạt:{qtag:V_W:B} giải:{qtag:Obj:B} nobel:{qtag:Obj:I} văn học:{qtag:Obj:I} năm:{qtag:D_Time:B} 2009:{qtag:D_Time:I}  
+<capability> ai:{qtag:WH:B} đoạt:{qtag:V_W:B} giải:{qtag:Obj:B} Oscar:{qtag:Obj:I} nữ:{qtag:D_Attr:B} diễn viên:{qtag:D_Attr:I} chính:{qtag:D_Attr:I} năm:{qtag:D_Time:B} 1968:{qtag:D_Time:I} ?:{} 
+<capability> Ai:{qtag:WH:B} được:{qtag:V_W:B} đánh giá:{qtag:V_W:I} là:{} tiền vệ:{qtag:D_Attr:B} kiến tạo:{qtag:D_Attr:I} tốt:{qtag:A_W:B} nhất:{qtag:A_W:I} thế giới:{qtag:Obj:B} hiện nay:{qtag:D_Time:B} ?:{} 
+<capability> ai:{qtag:WH:B} là:{qtag:WH:I} ca sỹ:{qtag:D_Attr:B} đoạt:{qtag:V_W:B} giải:{qtag:N_W:B} ca sỹ:{qtag:N_W:I} triển vọng:{qtag:N_W:I} của:{} Làn Sóng Xanh:{qtag:Obj:B} năm:{qtag:D_Time:B} 2002:{qtag:D_Time:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} cầu thủ:{qtag:D_Attr:B} đắt giá:{qtag:A_W:B} nhất:{qtag:A_W:I} ngoại hạng:{qtag:Obj:B} Anh:{qtag:Obj:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} cầu thủ:{qtag:D_Attr:B} đắt giá:{qtag:A_W:B} nhất:{qtag:A_W:I} thế giới:{qtag:Obj:B} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} cầu thủ:{qtag:D_Attr:B} trẻ:{qtag:A_W:B} nhất:{qtag:A_W:I} chơi:{qtag:V_W:B} cho:{qtag:V_W:I} đội tuyển:{qtag:Obj:B} Anh:{qtag:Obj:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} cầu thủ:{qtag:D_Attr:B} trẻ:{qtag:A_W:B} nhất:{qtag:A_W:I} ghi bàn:{qtag:V_W:B} ở:{} giải:{qtag:Obj:B} bóng đá:{qtag:Obj:I} ngoại hạng:{qtag:Obj:I} Anh:{qtag:Obj:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} cầu thủ:{qtag:D_Attr:B} trẻ:{qtag:A_W:B} nhất:{qtag:A_W:I} giành:{qtag:V_W:B} Quả Bóng Vàng:{qtag:Obj:B} Châu Âu:{qtag:Obj:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} cầu thủ:{qtag:D_Attr:B} trẻ:{qtag:A_W:B} tuổi:{qtag:A_W:I} nhất:{qtag:A_W:I} tham dự:{qtag:V_W:B} WorldCup:{qtag:Obj:B} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} cầu thủ:{qtag:D_Attr:B} vĩ đại:{qtag:A_W:B} nhất:{qtag:A_W:I} của:{} nền:{qtag:Obj:B} bóng đá:{qtag:Obj:I} Bồ Đào Nha:{qtag:Obj:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} cầu thủ:{qtag:D_Attr:B} xuất sắc:{qtag:A_W:B} nhất:{qtag:A_W:I} của:{} FiFa:{qtag:Obj:B} 2010:{qtag:D_Time:B} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} cầu thủ:{qtag:D_Attr:B} xuất sắc:{qtag:A_W:B} nhất:{qtag:A_W:I} làng:{} bóng rổ:{qtag:Obj:B} Mỹ:{qtag:Obj:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} cầu thủ:{qtag:D_Attr:B} xuất sắc:{qtag:A_W:B} nhất:{qtag:A_W:I} Việt Nam:{qtag:Obj:B} năm:{qtag:D_Time:B} 2009:{qtag:D_Time:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} cựu:{qtag:A_W:B} phó thủ tướng:{qtag:D_Attr:B} kiêm:{qtag:V_W:B} thống đốc:{qtag:D_Attr:B} ngân hàng:{qtag:Obj:B} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} đạo diễn:{qtag:D_Attr:B} giành:{qtag:V_W:B} nhiều:{qtag:A_W:B} đề cử:{qtag:N_W:B} nhất:{qtag:A_W:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} đạo diễn:{qtag:D_Attr:B} giành:{qtag:V_W:B} nhiều:{qtag:A_W:B} giải:{qtag:N_W:B} nhất:{qtag:A_W:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} đạo diễn:{qtag:D_Attr:B} xuất sắc:{qtag:A_W:B} nhất:{qtag:A_W:I} tại:{} lễ trao giải:{qtag:Obj:B} Cánh diều vàng:{qtag:Obj:I} 2004:{qtag:D_Time:B} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} diễn viên:{qtag:D_Attr:B} Nam:{qtag:D_Attr:I} xuất sắc:{qtag:A_W:B} của:{} đài:{qtag:Obj:B} HTV:{qtag:Obj:I} 2006:{qtag:D_Time:B} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} chiếm giữ:{qtag:V_W:B} kỷ lục:{qtag:N_W:B} về:{qtag:N_W:I} giải:{qtag:Obj:B} quả cầu vàng:{qtag:Obj:I} Cecil B.DeMille:{qtag:Obj:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} có:{} thu nhập:{qtag:N_W:B} cao:{qtag:A_W:B} nhất:{qtag:A_W:I} thế giới:{qtag:Obj:B} trong:{} giới:{qtag:D_Other:B} ca:{qtag:D_Other:I} sĩ:{qtag:D_Other:I} năm:{qtag:D_Time:B} 2007:{qtag:D_Time:I} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} có:{} thu nhập:{qtag:N_W:B} cao:{qtag:A_W:B} nhất:{qtag:A_W:I} Việt Nam:{qtag:Obj:B} trong:{} giới:{qtag:D_Other:B} ca:{qtag:D_Other:I} sĩ:{qtag:D_Other:I} năm:{qtag:D_Time:B} 2006:{qtag:D_Time:I} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} đã:{} sáng lập:{qtag:V_W:B} nên:{} tập đoàn:{qtag:Obj:B} Microsoft:{qtag:Obj:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} đạt:{qtag:V_W:B} giải:{qtag:N_W:B} nhất:{qtag:N_W:I} trong:{} cuộc:{qtag:Obj:B} thi:{qtag:Obj:I} Giọng hát:{qtag:Obj:I} hay:{qtag:Obj:I} học sinh:{qtag:Obj:I} -:{qtag:Obj:I} sinh viên:{qtag:Obj:I} toàn quốc:{qtag:Obj:I} năm:{qtag:D_Time:B} 2001:{qtag:D_Time:I} ?:{} 
+<capability> ai:{qtag:WH:B} là:{qtag:WH:I} người:{} đầu tiên:{qtag:D_Time:B} giành:{qtag:V_W:B} giải:{qtag:N_W:B} nhạc:{qtag:N_W:I} phim:{qtag:N_W:I} xuất sắc:{qtag:N_W:I} nhất:{qtag:N_W:I} tại:{} liên hoan:{qtag:Obj:B} phim:{qtag:Obj:I} quốc tế:{qtag:Obj:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} đoạt:{qtag:V_W:B} giải:{qtag:N_W:B} ngôi sao:{qtag:N_W:I} quốc tế:{qtag:N_W:I} hiệp hội:{qtag:Obj:B} văn hóa:{qtag:Obj:I} nghệ thuật:{qtag:Obj:I} seoul:{qtag:Obj:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} đoạt:{qtag:V_W:B} giải:{qtag:Obj:B} quả cầu vàng:{qtag:Obj:I} năm:{qtag:D_Time:B} 1981:{qtag:D_Time:I} trong:{} thể loại:{qtag:Obj:B} Newcomer-of-the-year:{qtag:Obj:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} đồng sáng lập:{qtag:V_W:B} Microsoft:{qtag:Obj:B} với:{} Bill Gates:{qtag:Obj:B} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} đồng:{qtag:V_W:B} sáng lập:{qtag:V_W:I} Microsoft Corp:{qtag:Obj:B} với:{} Bill Gates:{qtag:D_Other:B} năm:{qtag:D_Time:B} 1975:{qtag:D_Time:I} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} đưa:{qtag:V_W:B} ra:{qtag:V_W:I} nhị thức:{qtag:Obj:B} Newton:{qtag:Obj:I} tổng quát:{qtag:Obj:I} ?:{} 
+<capability> ai:{qtag:WH:B} là:{qtag:WH:I} người:{} đưa:{qtag:V_W:B} ra:{qtag:V_W:I} ý tưởng:{qtag:V_W:I} về:{} con:{qtag:Obj:B} đường:{qtag:Obj:I} gốm sứ:{qtag:Obj:I} ven:{qtag:Obj:I} Sông:{qtag:Obj:I} Hồng:{qtag:Obj:I} 
+<capability> ai:{qtag:WH:B} là:{qtag:WH:I} người:{} được:{} khán giả:{qtag:N_W:B} bình chọn:{qtag:V_W:B} nhiều:{qtag:A_W:B} nhất:{qtag:A_W:I} trong:{} sao mai:{qtag:Obj:B} điểm hẹn:{qtag:Obj:I} 2006:{qtag:D_Time:B} ?
+<capability> ai:{qtag:WH:B} là:{qtag:WH:I} người:{} được:{qtag:V_W:B} trao:{qtag:V_W:I} giải:{qtag:N_W:B} thí sinh:{qtag:N_W:I} triển vọng:{qtag:N_W:I} trong:{} sao mai:{qtag:Obj:B} điểm hẹn:{qtag:Obj:I} 2006:{qtag:D_Time:B} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} ghi bàn:{qtag:V_W:B} nhiều:{qtag:A_W:B} nhất:{qtag:A_W:I} đội tuyển:{qtag:Obj:B} Hà Lan:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} giàu:{qtag:A_W:B} nhất:{qtag:A_W:I} châu:{qtag:Obj:I} Á:{qtag:Obj:I} năm:{qtag:D_Time:B} 2007:{qtag:D_Time:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} giàu:{qtag:A_W:B} nhất:{qtag:A_W:I} sàn chứng khoán:{qtag:Obj:B} Hàn Quốc:{qtag:Obj:I} năm:{qtag:D_Time:B} 2009:{qtag:D_Time:I} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} giàu:{qtag:A_W:B} nhất:{qtag:A_W:I} thế giới:{qtag:Obj:I} năm:{qtag:D_Time:B} 2010:{qtag:D_Time:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} giàu:{qtag:A_W:B} nhất:{qtag:A_W:I} trên:{} TTCK:{qtag:Obj:B} Việt Nam:{qtag:Obj:I} 2010:{qtag:D_Time:B} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} khai sinh:{qtag:V_W:B} ra:{} nước:{qtag:Obj:B} Trung Hoa:{qtag:Obj:I} dân quốc:{qtag:Obj:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} khai sinh:{qtag:V_W:B} ra:{} nước:{qtag:Obj:B} Vạn Xuân:{qtag:Obj:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} nhận:{qtag:V_W:B} được:{qtag:V_W:I} danh hiệu:{qtag:Obj:B} Cầu thủ:{qtag:Obj:I} xuất sắc:{qtag:Obj:I} nhất:{qtag:Obj:I} tại:{} AFF Suzuki Cup:{qtag:Obj:B} 2008:{qtag:D_Time:B} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} nhận:{qtag:V_W:B} nhiều:{qtag:A_W:B} giải:{qtag:Obj:B} mai vàng:{qtag:Obj:I} nhất:{qtag:A_W:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} phải:{} đóng:{qtag:V_W:B} thuế thu nhập:{qtag:V_W:I} cao:{qtag:A_W:B} nhất:{qtag:A_W:I} Việt Nam:{qtag:Obj:B} năm:{qtag:D_Time:B} 2006:{qtag:D_Time:I} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} phát minh:{qtag:V_W:B} ra:{} động cơ:{qtag:Obj:B} hơi:{qtag:Obj:I} nước:{qtag:Obj:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} phát minh:{qtag:V_W:B} ra:{} ngôn ngữ:{qtag:Obj:B} lập:{qtag:Obj:I} trình Java:{qtag:Obj:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} sáng lập:{qtag:V_W:B} các:{} gameshow:{qtag:Obj:B} trên:{} kênh:{qtag:D_Loc:B} VTV3:{qtag:D_Loc:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} sáng lập:{qtag:V_W:B} hãng:{qtag:Obj:B} máy tính:{qtag:Obj:I} Apple:{qtag:Obj:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} sáng lập:{qtag:V_W:B} ra:{} mạng xã hội:{qtag:Obj:B} Facebook:{qtag:Obj:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} sáng lập:{qtag:V_W:B} ra:{} nhà Hồ:{qtag:Obj:B} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} sáng lập:{qtag:V_W:B} SoftBank:{qtag:Obj:B} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} sáng lập:{qtag:V_W:B} trung tâm:{qtag:Obj:B} thương mại:{qtag:Obj:I} trực tuyến:{qtag:Obj:I} Rakuten:{qtag:Obj:I} .:{} 
+<capability> ai:{qtag:WH:B} là:{qtag:WH:I} người:{} từng:{} đạt:{qtag:V_W:B} giải:{qtag:N_W:B} nhất:{qtag:N_W:I} giải thưởng:{qtag:Obj:B} hội:{qtag:Obj:I} văn học:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} với:{} tập thơ:{qtag:N_W:B} Việt Bắc:{qtag:N_W:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} viết:{qtag:V_W:B} bản:{qtag:Obj:B} Tuyên ngôn:{qtag:Obj:I} độc lập:{qtag:Obj:I} ở:{qtag:D_Loc:B} Việt Nam:{qtag:D_Loc:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} viết:{qtag:V_W:B} phần mềm:{qtag:Obj:B} chống:{qtag:Obj:I} virut:{qtag:Obj:I} máy tính:{qtag:Obj:I} Bkav:{qtag:Obj:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} xây dựng:{qtag:V_W:I} sân:{qtag:Obj:B} gôn:{qtag:Obj:I} vĩ đại:{qtag:A_W:B} nhất:{qtag:A_W:I} thế giới:{qtag:Obj:I} tại:{qtag:D_Loc:B} Scotland:{qtag:D_Loc:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{qtag:N_W:B} khoác áo:{qtag:N_W:I} đội tuyển:{qtag:Obj:B} Italia:{qtag:Obj:I} nhiều:{qtag:A_W:B} nhất:{qtag:A_W:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{qtag:N_W:B} sáng lập:{qtag:V_W:B} triều đại:{qtag:Obj:B} nhà Đinh:{qtag:Obj:B} 
+<capability> ai:{qtag:WH:B} là:{qtag:WH:I} nhạc sỹ:{qtag:D_Attr:B} chỉ huy:{qtag:N_W:B} dàn nhạc:{qtag:N_W:I} kèn:{qtag:N_W:I} của:{} quân nhạc:{qtag:Obj:B} Việt Nam:{qtag:Obj:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} nữ:{qtag:D_Attr:B} diễn viên:{qtag:D_Attr:I} phụ:{qtag:D_Attr:I} xuất sắc:{qtag:A_W:B} nhất:{qtag:A_W:I} trong:{} phim:{qtag:Obj:B} the:{qtag:Obj:I} Reader:{qtag:Obj:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} nữ:{qtag:D_Attr:B} diễn viên:{qtag:D_Attr:I} xuất sắc:{qtag:A_W:B} nhất:{qtag:A_W:I} trong:{} phim:{qtag:Obj:B} The Story:{qtag:Obj:I} of:{qtag:Obj:I} Dian Fossey:{qtag:Obj:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} tay vợt:{qtag:D_Attr:B} cầu lông:{qtag:D_Attr:I} xuất sắc:{qtag:A_W:B} nhất:{qtag:A_W:I} Việt Nam:{qtag:Obj:B} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} thủ môn:{qtag:D_Attr:B} xuất sắc:{qtag:A_W:B} nhất:{qtag:A_W:I} mọi:{qtag:D_Time:B} thời đại:{qtag:D_Time:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} tỉ phú:{qtag:D_Attr:B} giàu:{qtag:A_W:B} nhất:{qtag:A_W:I} thế giới:{qtag:Obj:I} 2010:{qtag:D_Time:B} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} vận động viên:{qtag:D_Attr:B} bơi:{qtag:D_Attr:I} lội:{qtag:D_Attr:I} trẻ:{qtag:A_W:B} nhất:{qtag:A_W:I} phá:{qtag:V_W:B} kỷ lục:{qtag:Obj:B} thế giới:{qtag:Obj:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} vận động viên:{qtag:D_Attr:B} xuất sắc:{qtag:A_W:B} nhất:{qtag:A_W:I} Olimpic:{qtag:Obj:B} Bắc Kinh:{qtag:Obj:I} 2008:{qtag:D_Time:B} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} vua:{qtag:D_Attr:B} của:{} thể:{qtag:Obj:B} loại:{qtag:Obj:I} văn:{qtag:Obj:I} bạch thoại:{qtag:Obj:I} Trung Quốc:{qtag:Obj:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} vua:{qtag:D_Attr:B} phá:{qtag:D_Attr:I} lưới:{qtag:D_Attr:I} giải:{qtag:Obj:B} ngoại hạng Anh:{qtag:Obj:I} mùa:{qtag:D_Time:B} bóng:{qtag:D_Time:I} 2009-2010:{qtag:D_Time:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} vua:{qtag:D_Attr:B} phá:{qtag:D_Attr:I} lưới:{qtag:D_Attr:I} La Liga:{qtag:Obj:B} mùa:{qtag:D_Time:B} bóng:{qtag:D_Time:I} 2009-2010:{qtag:D_Time:I} ?:{} 
+<capability> Ai:{qtag:WH:B} là:{qtag:WH:I} vua:{qtag:D_Attr:B} phá:{qtag:D_Attr:I} lưới:{qtag:D_Attr:I} SeriA:{qtag:Obj:B} mùa:{qtag:D_Time:B} bóng:{qtag:D_Time:I} 2009-2010:{qtag:D_Time:I} ?:{} 
+<capability> ai:{qtag:WH:B} là:{qtag:WH:I} vua:{qtag:D_Attr:B} thơ tình:{qtag:Obj:B} Việt Nam:{qtag:D_Loc:B} cùng:{} với:{} Xuân Diệu:{qtag:D_Other:B} ?:{} 
+<capability> Ai:{qtag:WH:B} lập:{qtag:V_W:B} nên:{qtag:V_W:I} nhà Mạc:{qtag:Obj:B} ?:{} 
+<capability> Ai:{qtag:WH:B} phát minh:{qtag:V_W:B} ra:{} chuột:{qtag:Obj:B} máy tính:{qtag:Obj:I} ?:{} 
+<capability> Ai:{qtag:WH:B} sáng lập:{qtag:V_W:B} ra:{} Viện:{qtag:Obj:B} Sốt rét:{qtag:Obj:I} -:{qtag:Obj:I} Ký sinh trùng:{qtag:Obj:I} và:{qtag:Obj:I} côn trùng:{qtag:Obj:I} ?:{} 
+<capability> Ai:{qtag:WH:B} thể hiện:{qtag:V_W:B} nhạc:{qtag:Obj:B} trịnh công sơn:{qtag:Obj:I} thành công:{qtag:V_W:B} nhất:{qtag:A_W:B} ?:{} 
+<capability> Ai:{qtag:WH:B} từng:{} là:{} thủ tướng:{qtag:D_Attr:B} và:{} phó tổng thống:{qtag:D_Attr:B} của:{} Việt Nam:{qtag:Obj:B} Cộng hòa:{qtag:Obj:I} ?:{} 
+<capability> ai:{qtag:WH:I} xây:{qtag:V_W:B} thành:{qtag:N_W:B} Cổ Loa:{qtag:N_W:I} ?:{} 
+<capability> Bác sĩ:{qtag:D_Attr:B} nào:{qtag:WH:B} nổi tiếng:{qtag:A_W:B} ở:{qtag:D_Loc:B} Việt Nam:{qtag:D_Loc:I} trong:{} lĩnh vực:{qtag:Obj:B} gan:{qtag:Obj:I} và:{qtag:Obj:I} giải phẫu:{qtag:Obj:I} gan:{qtag:Obj:I} ?:{} 
+<capability> Ca sĩ:{qtag:D_Attr:B} nào là:{qtag:WH:I} người:{} có:{} thu nhập:{qtag:N_W:B} cao:{qtag:A_W:B} nhất:{qtag:A_W:I} xứ Đài:{qtag:Obj:B} năm:{qtag:D_Time:B} 2010:{qtag:D_Time:I} 
+<capability> Ca sĩ:{qtag:D_Attr:B} nào:{qtag:WH:B} đạt:{qtag:V_W:B} danh hiệu:{qtag:Obj:B} Nghệ sĩ:{qtag:Obj:I} pop:{qtag:Obj:I} nam:{qtag:Obj:I} bán:{qtag:Obj:I} đĩa:{qtag:Obj:I} chạy:{qtag:Obj:I} nhất:{qtag:Obj:I} thiên niên kỷ:{qtag:Obj:I} ?:{} 
+<capability> ca sĩ:{qtag:D_Attr:B} nào:{qtag:WH:B} đoạt:{qtag:V_W:B} giải:{qtag:Obj:B} ca sĩ:{qtag:Obj:I} được:{qtag:Obj:I} yêu:{qtag:Obj:I} thích:{qtag:Obj:I} nhất:{qtag:Obj:I} năm:{qtag:D_Time:B} 2007:{qtag:D_Time:I} ?:{} 
+<capability> ca sĩ:{qtag:D_Attr:B} nào:{qtag:WH:B} đoạt:{qtag:V_W:B} giải:{qtag:Obj:B} Nghệ sĩ Lá Phong:{qtag:Obj:I} năm:{qtag:D_Time:B} 2005:{qtag:D_Time:I} ?:{} 
+<capability> Ca sĩ:{qtag:D_Attr:B} nào:{qtag:WH:B} được:{qtag:A_W:B} yêu:{qtag:A_W:I} thích:{qtag:A_W:I} nhất:{qtag:A_W:I} năm:{qtag:D_Time:B} 2010:{qtag:D_Time:I} ?:{} 
+<capability> ca sĩ:{qtag:D_Attr:B} nào:{qtag:WH:B} được:{qtag:A_W:B} yêu:{qtag:A_W:I} thích:{qtag:V_W:I} nhất:{qtag:V_W:I} năm:{qtag:D_Time:B} 2006:{qtag:D_Time:I} ?:{} 
+<capability> ca sỹ:{qtag:D_Attr:B} đoạt:{qtag:V_W:B} giải:{qtag:N_W:B} nhì:{qtag:N_W:I} cuộc:{qtag:Obj:B} thi Tiếng:{qtag:Obj:I} hát Truyền hình:{qtag:Obj:I} Thành phố:{qtag:Obj:I} Hồ Chí Minh:{qtag:Obj:I} năm:{qtag:D_Time:B} 2001:{qtag:D_Time:I} ?:{} 
+<capability> Ca sỹ:{qtag:D_Attr:B} nào:{qtag:WH:B} đã:{} đoạt:{qtag:V_W:B} giải:{qtag:N_W:B} giọng ca:{qtag:N_W:I} hay:{qtag:N_W:I} của:{} các:{qtag:Obj:B} tỉnh:{qtag:Obj:I} miền:{qtag:Obj:I} Tây:{qtag:Obj:I} năm:{qtag:D_Time:B} 1985:{qtag:D_Time:I} 
+<capability> Ca sỹ:{qtag:D_Attr:B} nào:{qtag:WH:B} đoạt:{qtag:V_W:B} giải:{qtag:N_W:B} ca sỹ:{qtag:N_W:I} được:{qtag:N_W:I} yêu:{qtag:N_W:I} thích:{qtag:N_W:I} nhất:{qtag:N_W:I} tại:{} festival:{qtag:Obj:B} âm nhạc:{qtag:Obj:I} lahavan-cuba:{qtag:Obj:I} năm:{qtag:D_Time:B} 1989:{qtag:D_Time:I} ?:{} 
+<capability> Ca sỹ:{qtag:D_Attr:B} nào:{qtag:WH:B} đoạt:{qtag:V_W:B} giải:{qtag:N_W:B} nhất:{qtag:N_W:I} cuộc thi:{qtag:Obj:B} Giọng hát:{qtag:Obj:I} hay:{qtag:Obj:I} truyền hình:{qtag:Obj:I} toàn quốc:{qtag:Obj:I} năm:{qtag:D_Time:B} 1999:{qtag:D_Time:I} ?:{} 
+<capability> Ca sỹ:{qtag:D_Attr:B} nào:{qtag:WH:B} đoạt:{qtag:V_W:B} giải:{qtag:N_W:B} nhất:{qtag:N_W:I} tiếng:{qtag:Obj:B} hát:{qtag:Obj:I} truyền hình:{qtag:Obj:I} thành phố:{qtag:Obj:I} HCM:{qtag:Obj:I} năm:{qtag:D_Time:B} 2000:{qtag:D_Time:I} ?:{} 
+<capability> ca sỹ:{qtag:D_Attr:B} nào:{qtag:WH:B} đoạt:{qtag:V_W:B} giải:{qtag:Obj:B} Grammy:{qtag:Obj:I} cho:{} nghệ sỹ:{qtag:D_Attr:B} xuất sắc:{qtag:A_W:B} nhất:{qtag:A_W:I} dòng:{qtag:N_W:B} nhạc:{qtag:N_W:I} dance:{qtag:N_W:I} năm:{qtag:D_Time:B} 2010:{qtag:D_Time:I} 
+<capability> Ca sỹ:{qtag:D_Attr:B} nào:{qtag:WH:B} gây:{qtag:V_W:B} ấn tượng:{qtag:A_W:B} nhất:{qtag:V_W:I} trong:{} GalaMissAudition:{qtag:Obj:B} 2007:{qtag:D_Time:B} ?:{} 
+<capability> Ca sỹ:{qtag:D_Attr:B} nào:{qtag:WH:B} giành:{qtag:V_W:B} giải:{qtag:N_W:B} Ca sĩ trẻ:{qtag:N_W:I} triển vọng:{qtag:N_W:I} của:{} Làn sóng xanh:{qtag:Obj:B} 
+<capability> Ca sỹ:{qtag:D_Attr:B} nào:{qtag:WH:B} nổi tiếng:{qtag:A_W:B} với:{} album:{qtag:Obj:B} Baby:{qtag:Obj:I} one:{qtag:Obj:I} more:{qtag:Obj:I} time:{qtag:Obj:I} ?:{} 
+<capability> Ca sỹ:{qtag:D_Attr:B} nào:{qtag:WH:B} thủ khoa:{qtag:D_Attr:B} thanh nhạc:{qtag:D_Attr:I} trường:{qtag:Obj:B} Cao đẳng:{qtag:Obj:I} nghệ thuật:{qtag:Obj:I} quân đội:{qtag:Obj:I} năm:{qtag:D_Time:B} 2002:{qtag:D_Time:I} 
+<capability> Cầu thủ:{qtag:D_Attr:B} nào:{qtag:WH:B} đang:{} giữ:{qtag:V_W:B} kỷ lục:{qtag:N_W:B} ghi bàn:{qtag:N_W:I} tại:{} các:{} kỳ:{qtag:D_Time:B} WorlCup:{qtag:Obj:B} ?:{} 
+<capability> Cầu thủ:{qtag:D_Attr:B} nào:{qtag:WH:B} là:{} vua:{qtag:N_W:B} phá:{qtag:N_W:I} lưới:{qtag:N_W:I} World Cup:{qtag:Obj:B} 2010:{qtag:D_Time:B} ?:{} 
+<capability> Đề tài:{qtag:Obj:B} cải tiến:{qtag:Obj:I} dàn:{qtag:Obj:I} Tên lửa:{qtag:Obj:I} thời:{qtag:D_Time:B} chống:{qtag:D_Time:I} Mỹ:{qtag:D_Time:I} là:{qtag:WH:B} của:{qtag:WH:I} ai:{qtag:WH:I} ?:{} 
+<capability> Diễn viên:{qtag:D_Attr:B} đoạt:{qtag:V_W:B} giải:{qtag:Obj:B} Gấu bạc:{qtag:Obj:I} tại:{} Liên hoan:{qtag:Obj:B} phim:{qtag:Obj:I} Berlin:{qtag:Obj:I} tháng:{qtag:D_Time:B} ba:{qtag:D_Time:I} năm:{qtag:D_Time:I} 2000:{qtag:D_Time:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{}  
+<capability> Diễn viên:{qtag:D_Attr:B} nào:{qtag:WH:B} đã:{} giành:{qtag:V_W:B} giải thưởng:{qtag:N_W:B} Nam diễn viên:{qtag:N_W:I} xuất sắc:{qtag:N_W:I} trong:{} phim:{qtag:Obj:B} Kemkacang:{qtag:Obj:I} và:{qtag:Obj:I} tình yêu:{qtag:Obj:I} trẻ con:{qtag:Obj:I} ?:{} 
+<capability> Diễn viên:{qtag:D_Attr:B} nào:{qtag:WH:B} được:{qtag:A_W:B} yêu:{qtag:A_W:I} thích:{qtag:A_W:I} nhất:{qtag:A_W:I} vào:{} cuối:{qtag:D_Time:B} năm:{qtag:D_Time:I} 80:{qtag:D_Time:I} ?:{} 
+<capability> Diễn viên:{qtag:D_Attr:B} thắng:{qtag:V_W:B} giải:{qtag:Obj:B} Mr.:{qtag:Obj:I} Europe:{qtag:Obj:I} ở:{} tuổi:{qtag:D_Time:B} 19:{qtag:D_Time:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<capability> Diễn viên:{qtag:D_Attr:B} thành công:{qtag:A_W:B} nhất:{qtag:A_W:I} của:{} điện ảnh:{qtag:Obj:B} Hồng Kông:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<capability> Định luật:{qtag:Obj:B} Moore:{qtag:Obj:I} được:{} xây dựng:{qtag:V_W:B} bởi:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<capability> Giọng ca:{qtag:D_Attr:B} nam:{qtag:D_Attr:I} xuất sắc:{qtag:A_W:B} nhất:{qtag:A_W:I} của:{} tân nhạc:{qtag:Obj:B} Việt Nam:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<capability> Hồ Chí Minh:{qtag:Obj:B} kết hôn:{qtag:V_W:B} với:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<capability> nam:{qtag:D_Attr:B} diễn viên:{qtag:D_Attr:I} nào là:{qtag:WH:B} diễn viên:{qtag:D_Attr:B} xuất sắc:{qtag:A_W:B} nhất:{qtag:A_W:I} thể loại:{qtag:N_W:B} phim:{qtag:N_W:I} truyện:{qtag:N_W:I} video:{qtag:N_W:I} ?:{} 
+<capability> Năm:{qtag:D_Time:B} 1997:{qtag:D_Time:I} nữ nghệ sỹ:{qtag:D_Attr:B} nào:{qtag:WH:B} đã:{} đoạt:{qtag:V_W:B} giải:{qtag:N_W:B} Nghệ sỹ:{qtag:N_W:I} mới:{qtag:N_W:I} xuất sắc:{qtag:N_W:I} nhất:{qtag:N_W:I} của:{} Grammy:{qtag:Obj:B} ?:{} 
+<capability> nghệ sỹ:{qtag:D_Attr:B} nào:{qtag:WH:B} đoạt:{qtag:V_W:B} giải:{qtag:Obj:B} Grammy:{qtag:Obj:I} năm:{qtag:D_Time:B} 2009:{qtag:D_Time:I} ?:{} 
+<capability> Người:{} có:{qtag:V_W:B} công:{qtag:V_W:I} đánh dẹp:{qtag:V_W:I} loạn:{qtag:Obj:B} 12:{qtag:Obj:I} sứ quân:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<capability> Người:{} đặt:{qtag:V_W:B} nền:{qtag:V_W:I} móng:{qtag:V_W:I} cho:{} sự:{qtag:N_W:B} ra đời:{qtag:N_W:I} của:{} nhà Trần:{qtag:Obj:B} là:{qtag:WH:B, D_Attr:B} ai:{qtag:WH:I, D_Attr:I} ?:{} 
+<capability> Người:{} lập:{qtag:V_W:B} nên:{qtag:V_W:I} chính quyền:{qtag:Obj:B} Tào Ngụy:{qtag:Obj:I} thời:{qtag:D_Time:B} Tam Quốc:{qtag:D_Time:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<capability> người:{} lập:{qtag:V_W:B} ra:{qtag:V_W:I} Tự Lực Văn Đoàn:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<capability> Người:{} nào:{qtag:WH:B} đoạt:{qtag:V_W:B} giải:{qtag:Obj:B} nobel:{qtag:Obj:I} văn học:{qtag:Obj:I} năm:{qtag:D_Time:B} 2010:{qtag:D_Time:I} ?:{} 
+<capability> Người:{} phát triển:{qtag:V_W:B} ngôn ngữ:{qtag:Obj:B} lập trình:{qtag:Obj:I} C:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<capability> Người:{} sáng lập:{qtag:N_W:B} nhà Tiền Lý:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<capability> Người:{} sáng lập:{qtag:V_W:B} ngành:{qtag:Obj:B} Vật lý:{qtag:Obj:I} Y sinh học:{qtag:Obj:I} ở:{qtag:D_Loc:B} Việt Nam:{qtag:D_Loc:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<capability> Người:{} sáng lập:{qtag:V_W:B} ra:{} nhà Ngô:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<capability> Người:{} sáng lập:{qtag:V_W:I} ra:{} nhà Mạc:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<capability> nhà báo:{qtag:D_Attr:B} nào:{qtag:WH:B} đã:{} đạt:{qtag:V_W:B} giải vàng:{qtag:V_W:I} liên hoan:{qtag:Obj:B} truyền hình:{qtag:Obj:I} toàn quốc:{qtag:Obj:I} 2008:{qtag:D_Time:B} ?:{} 
+<capability> Nhà Hậu Lê:{qtag:Obj:B} được:{} tái lập:{qtag:V_W:B} dưới:{} sự:{qtag:N_W:B} giúp đỡ:{qtag:N_W:I} của:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<capability> Nhà thơ:{qtag:D_Attr:B} nổi tiếng:{qtag:A_W:B} bậc:{qtag:A_W:I} nhất:{qtag:A_W:I} trong:{} số:{} văn nhân:{qtag:Obj:B} thời:{qtag:D_Time:B} Kiến An:{qtag:D_Time:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<capability> nhà văn:{qtag:D_Attr:B} nào:{qtag:WH:B} đạt:{qtag:V_W:B} giải thưởng:{qtag:V_W:I} Hồ Chí Minh:{qtag:V_W:I} về:{} văn học:{qtag:Obj:B} nghệ thuật:{qtag:Obj:I} năm:{qtag:D_Time:B} 1996:{qtag:D_Time:I} ?:{} 
+<capability> Nhà văn:{qtag:D_Attr:B} nào:{qtag:WH:B} được:{} bổ nhiệm:{qtag:V_W:B} là:{} Thứ sử:{qtag:Obj:B} Liễu Châu:{qtag:Obj:I} năm:{qtag:D_Time:B} 815:{qtag:D_Time:I} ?:{} 
+<capability> Nhà văn:{qtag:D_Attr:B} Trung Quốc:{qtag:Obj:B} nào:{qtag:WH:B} giữ chức:{qtag:V_W:B} Tư Nghị:{qtag:Obj:B} Tham Quân:{qtag:Obj:I} ?:{} 
+<capability> Nhạc sĩ:{qtag:D_Attr:B} nào:{qtag:WH:B} đạt:{qtag:V_W:B} danh hiệu:{qtag:Obj:B} nhạc sĩ:{qtag:Obj:I} ấn tượng:{qtag:Obj:I} nhất:{qtag:Obj:I} năm:{qtag:D_Time:B} 2010:{qtag:D_Time:I} ?:{} 
+<capability> Nhạc sĩ:{qtag:D_Attr:B} nào:{qtag:WH:B} đạt:{qtag:V_W:B} danh hiệu:{qtag:Obj:B} nhạc sĩ:{qtag:Obj:I} phối khí:{qtag:Obj:I} hiệu quả:{qtag:Obj:I} nhất:{qtag:Obj:I} năm:{qtag:D_Time:B} 2010:{qtag:D_Time:I} ?:{} 
+<capability> Nhạc sĩ:{qtag:D_Attr:B} nào:{qtag:WH:B} đoạt:{qtag:V_W:B} giải:{qtag:N_W:B} bài hát:{qtag:N_W:I} của:{qtag:N_W:I} năm:{qtag:N_W:I} trong:{} giải thưởng:{qtag:Obj:B} bài hát việt:{qtag:Obj:I} 2005:{qtag:D_Time:B} ?:{} 
+<capability> Nhân vật:{qtag:N_W:B} duy nhất:{qtag:A_W:B} nào:{qtag:WH:B} hai:{qtag:N_W:B} lần:{qtag:N_W:I} giữ chức:{qtag:V_W:B} Tổng bí thư:{qtag:Obj:B} ?:{} 
+<capability> Nữ nghệ sỹ:{qtag:D_Attr:B} nào:{qtag:WH:B} đoạt:{qtag:V_W:B} nhiều:{qtag:A_W:B} giải:{qtag:Obj:B} Grammy:{qtag:Obj:I} nhất:{qtag:A_W:I} ?:{} 
+<capability> Nữ:{qtag:D_Attr:B} diễn viên:{qtag:D_Attr:I} điện ảnh:{qtag:D_Attr:I} xuất sắc:{qtag:A_W:B} nhất:{qtag:A_W:I} năm:{qtag:D_Time:B} 1950:{qtag:D_Time:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{}  
+<capability> Nữ:{qtag:D_Attr:B} diễn viên:{qtag:D_Attr:I} được:{} khán giả:{qtag:N_W:B} yêu:{qtag:A_W:B} thích:{qtag:A_W:I} nhất:{qtag:A_W:I} 2008:{qtag:D_Time:B} -:{qtag:D_Time:I} 2009:{qtag:D_Time:I} ?:{} 
+<capability> Nữ:{qtag:D_Attr:B} diễn viên:{qtag:D_Attr:I} nào:{qtag:WH:B} đã:{} từng:{} có:{} thu nhập:{qtag:N_W:B} cao:{qtag:A_W:B} nhất:{qtag:A_W:I} Trung Quốc:{qtag:Obj:B} 
+<capability> Nữ:{qtag:D_Attr:B} diễn viên:{qtag:D_Attr:I} trẻ:{qtag:A_W:B} nhất:{qtag:A_W:I} nhận:{qtag:V_W:B} giải:{qtag:Obj:B} Kim Kê:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<capability> Siêu mẫu:{qtag:D_Attr:B} nào:{qtag:WH:B} có:{} thu nhập:{qtag:N_W:B} cao:{qtag:A_W:B} nhất:{qtag:A_W:I} thế giới:{qtag:Obj:B} 
+<capability> Tên:{qtag:N_W:B} đạo diễn:{qtag:D_Attr:B} được:{} đề cử:{qtag:V_W:B} già:{qtag:A_W:B} nhất:{qtag:A_W:I} ?:{}  
+<capability> Tên:{qtag:N_W:B} đạo diễn:{qtag:D_Attr:B} giành:{qtag:V_W:B} giải:{qtag:N_W:B} già:{qtag:N_W:I} nhất:{qtag:A_W:I} ?:{} 
+<capability> Thầy giáo:{qtag:D_Attr:B} nào:{qtag:WH:B} của:{} Việt Nam:{qtag:D_Loc:B} đã:{} từng:{} dâng:{qtag:V_W:B} sớ:{qtag:Obj:B} chém:{qtag:Obj:I} 7:{qtag:Obj:I} tên:{qtag:Obj:I} gian thần:{qtag:Obj:I} 
+<capability> Thời:{qtag:D_Time:B} nhà Hậu Lê:{qtag:D_Time:I} ,:{} Nguyễn Hoàng:{qtag:Obj:B} mâu thuẫn:{qtag:V_W:B} với:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<capability> Tổng thống:{qtag:D_Attr:B} nào:{qtag:WH:B} xuất sắc:{qtag:A_W:B} nhất:{qtag:A_W:I} Hoa Kỳ:{qtag:Obj:B} ?:{} 
+<capability> Vị tướng:{qtag:D_Attr:B} nào:{qtag:WH:B} giữ:{qtag:V_W:B} chức vụ:{qtag:N_W:B} Tổng tham mưu trưởng:{qtag:D_Attr:B} của:{} quân lực:{qtag:Obj:B} Việt Nam:{qtag:Obj:I} Cộng hòa:{qtag:Obj:I} lâu:{qtag:A_W:B} nhất:{qtag:A_W:I} ?:{} 
+<capability> Vị:{qtag:D_Attr:B} thủ tướng:{qtag:D_Attr:I} Việt Nam:{qtag:Obj:B} nào:{qtag:WH:B} tại:{qtag:V_W:B} vị:{qtag:V_W:I} lâu:{qtag:A_W:B} nhất:{qtag:A_W:I} ?:{} 
+<capability> Vị:{qtag:D_Attr:B} tổng thống:{qtag:D_Attr:I} nào:{qtag:WH:B} đã:{} quyết định:{qtag:V_W:B} ném:{qtag:V_W:I} bom:{qtag:Obj:B} nguyên tử:{qtag:Obj:I} xuống:{} Nhật Bản:{qtag:D_Loc:B} ?:{} 
+<capability> Vị:{qtag:D_Attr:B} vua:{qtag:D_Attr:I} nào:{qtag:WH:B} đổi:{qtag:V_W:B} tên:{qtag:N_W:B} nước:{qtag:N_W:I} thành:{} Đại Việt:{qtag:Obj:B} ?:{} 
+<capability> Vị:{qtag:D_Attr:B} vua:{qtag:D_Attr:I} nào:{qtag:WH:B} lãnh đạo:{qtag:V_W:B} cuộc:{qtag:Obj:B} khởi nghĩa:{qtag:Obj:I} nông dân:{qtag:Obj:I} chống:{qtag:V_W:B} nhà Đường:{qtag:Obj:B} ?:{} 
+<capability> Vị:{qtag:D_Attr:B} vua:{qtag:D_Attr:I} nào:{qtag:WH:B} lập:{qtag:V_W:B} nên:{qtag:V_W:I} nước:{qtag:Obj:B} Âu Lạc:{qtag:Obj:I} ?:{} 
+<other> Ai:{qtag:WH:B} đem:{qtag:V_W:B} lòng:{qtag:V_W:I} yêu:{qtag:V_W:I} say đắm:{qtag:V_W:I} nàng:{qtag:Obj:B} Mỵ Nương:{qtag:Obj:I} ?:{} 
+<other> Giải thưởng:{qtag:Obj:B} Nobel:{qtag:Obj:I} Hòa bình:{qtag:Obj:I} năm:{qtag:D_Time:B} 2010:{qtag:D_Time:I} được:{} trao:{qtag:V_W:B} cho:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<other> Giải:{qtag:Obj:B} nobel:{qtag:Obj:I} văn học:{qtag:Obj:I} năm:{qtag:D_Time:B} 2006:{qtag:D_Time:I} trao:{qtag:V_W:B} cho:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<other> GS . Tôn Thất Tùng:{qtag:Obj:B} là:{} cha:{qtag:N_W:B} của:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<other> Năm:{qtag:D_Time:B} 1991:{qtag:D_Time:I} Bùi Thiện Ngộ:{qtag:Obj:B} giữ:{qtag:V_W:B} chức:{qtag:V_W:I} Bộ trưởng:{qtag:Obj:B} bộ:{qtag:Obj:I} nội vụ:{qtag:Obj:I} thay:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<other> Năm:{qtag:D_Time:B} 2000:{qtag:D_Time:I} ,:{} Song:{qtag:N_W:B} Hye Kyo:{qtag:N_W:I} đóng:{qtag:V_W:B} vai:{qtag:V_W:I} chính:{qtag:V_W:I} trong:{} phim:{qtag:Obj:B} Trái:{qtag:Obj:I} tim:{qtag:Obj:I} mùa:{qtag:Obj:I} thu:{qtag:Obj:I} cùng:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<other> Nguyễn Mạnh Cầm:{qtag:Obj:B} làm:{qtag:V_W:B} chủ tịch:{qtag:D_Attr:B} Hội:{qtag:Obj:B} khuyến học:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} thay:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<other> Nhà văn:{qtag:D_Attr:B} nào:{qtag:WH:B} đạt:{qtag:V_W:B} giải:{qtag:N_W:B} Tự lực văn đoàn:{qtag:N_W:I} từ:{} tác phẩm:{qtag:Obj:B} Bỉ vỏ:{qtag:Obj:I} ?:{} 
+<other> nhà văn:{qtag:D_Attr:B} nào:{qtag:WH:B} tiêu biểu:{qtag:V_W:B} của:{} văn học:{qtag:Obj:B} hiện thực:{qtag:Obj:I} phê phán:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} với:{} tác phẩm:{qtag:N_W:B} kép:{qtag:N_W:I} tư bền:{qtag:N_W:I} ?:{} 
+<position> Ai:{qtag:WH:B} đã:{} từng:{} làm:{qtag:V_W:B} Giám đốc:{qtag:V_W:I} điều hành:{qtag:V_W:I} 1999–2005:{qtag:D_Time:B} tập:{qtag:Obj:B} đoàn:{qtag:Obj:I} máy tính:{qtag:Obj:I} khổng lồ:{qtag:Obj:I} Hewlett-Packard:{qtag:Obj:I} 
+<position> Ai:{qtag:WH:B} là:{qtag:WH:I} bác sĩ:{qtag:D_Attr:B} đầu:{qtag:A_W:B} ngành:{qtag:A_W:I} nghiên cứu:{qtag:V_W:B} về:{} kí sinh trùng:{qtag:Obj:B} ở:{qtag:D_Loc:B} Việt Nam:{qtag:D_Loc:I} ?:{} 
+<position> Ai:{qtag:WH:B} là:{qtag:WH:I} bộ trưởng:{qtag:D_Attr:B} bộ:{qtag:Obj:B} giáo dục:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} năm:{qtag:D_Time:B} 1945:{qtag:D_Time:I} ?:{} 
+<position> Ai:{qtag:WH:B} là:{qtag:WH:I} chủ tịch:{qtag:D_Attr:B} đầu tiên:{qtag:D_Time:B} của:{} hội:{qtag:Obj:B} nhạc sĩ:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} ?:{} 
+<position> Ai:{qtag:WH:B} là:{qtag:WH:I} chủ tịch:{qtag:D_Attr:B} HĐQT:{qtag:D_Attr:I} tập đoàn:{qtag:Obj:B} dầu khí:{qtag:Obj:I} VN:{qtag:Obj:I} năm:{qtag:D_Time:B} 2010:{qtag:D_Time:I} 
+<position> Ai:{qtag:WH:B} là:{qtag:WH:I} chủ tịch:{qtag:D_Attr:B} HĐQT:{qtag:D_Attr:I} tập đoàn:{qtag:Obj:B} Hòa Phát:{qtag:Obj:I} năm:{qtag:D_Time:B} 2010:{qtag:D_Time:I} 
+<position> Ai:{qtag:WH:B} là:{qtag:WH:I} chủ tịch:{qtag:D_Attr:B} hội:{qtag:Obj:B} liên hiệp:{qtag:Obj:I} phụ nữ:{qtag:Obj:I} đầu tiên:{qtag:D_Time:B} tại:{qtag:D_Loc:B} việt nam:{qtag:D_Loc:I} ?:{} 
+<position> Ai:{qtag:WH:B} là:{qtag:WH:I} hiệu trưởng:{qtag:D_Attr:B} đầu tiên:{qtag:D_Time:B} trường:{qtag:Obj:B} Đại học:{qtag:Obj:I} Y Khoa:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} ?:{} 
+<position> Ai:{qtag:WH:B} là:{qtag:WH:I} ngôi sao:{qtag:D_Attr:B} Hàn Quốc:{qtag:D_Attr:I} đầu tiên:{qtag:D_Time:B} xuất hiện:{qtag:V_W:B} trong:{} phim:{qtag:Obj:B} Hollywood:{qtag:Obj:I} ?:{} 
+<position> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} đầu tiên:{qtag:D_Time:B} đề:{qtag:V_W:B} ra:{qtag:V_W:I} phương pháp:{qtag:Obj:B} dùng:{qtag:Obj:I} kích sinh:{qtag:Obj:I} chất:{qtag:Obj:I} Filatov:{qtag:Obj:I} ?:{} 
+<position> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} đầu tiên:{qtag:D_Time:B} gây:{qtag:V_W:B} dựng:{qtag:V_W:I} báo:{qtag:Obj:B} điện tử:{qtag:Obj:I} Dân trí:{qtag:Obj:I} ?:{} 
+<position> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} được:{qtag:V_W:B} trao:{qtag:V_W:I} danh hiệu:{qtag:Obj:B} Quả:{qtag:Obj:I} bóng:{qtag:Obj:I} Vàng:{qtag:Obj:I} Việt Nam:{qtag:D_Loc:B} đầu tiên:{qtag:D_Time:B} ?:{} 
+<position> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} mở đầu:{qtag:V_W:B} phong trào:{qtag:Obj:B} Đông Du:{qtag:Obj:I} ?:{} 
+<position> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} mở đầu:{qtag:V_W:B} phong trào:{qtag:Obj:B} Duy Tân:{qtag:Obj:I} ?:{} 
+<position> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} Việt Nam:{qtag:D_Loc:B} đầu tiên:{qtag:D_Time:B} nhận:{qtag:V_W:B} giải thưởng:{qtag:Obj:B} Sao:{qtag:Obj:I} Vàng Đất Việt:{qtag:Obj:I} ?:{} 
+<position> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} viết:{qtag:V_W:B} phiên bản:{qtag:Obj:B} Linux:{qtag:Obj:I} đầu tiên:{qtag:D_Time:B} ?:{} 
+<position> Ai:{qtag:WH:B} là:{qtag:WH:I} nhà toán học:{qtag:D_Attr:B} đầu tiên:{qtag:D_Time:B} của:{} Việt Nam:{qtag:Obj:B} ?:{} 
+<position> Ai:{qtag:WH:B} là:{qtag:WH:I} nhà toán học:{qtag:N_W:B} đầu tiên:{qtag:A_W:B} của:{} Việt Nam:{qtag:Obj:B} ?:{} 
+<position> Ai:{qtag:WH:B} là:{qtag:WH:I} thị trưởng:{qtag:D_Attr:B} đầu tiên:{qtag:D_Time:B} của:{} Chính Phủ:{qtag:Obj:B} Việt Nam Dân Chủ:{qtag:Obj:I} Cộng Hòa:{qtag:Obj:I} ?:{} 
+<position> Ai:{qtag:WH:B} là:{qtag:WH:I} thủ tướng:{qtag:D_Attr:B} chỉnh phủ:{qtag:D_Attr:I} đầu tiên:{qtag:D_Time:B} của:{} Việt Nam:{qtag:Obj:B} 
+<position> ai:{qtag:WH:B} là:{qtag:WH:I} Tổng biên tập:{qtag:D_Attr:B} đầu tiên:{qtag:D_Time:B} của:{} báo:{qtag:Obj:B} tuổi trẻ:{qtag:Obj:I} ?:{} 
+<position> Ai:{qtag:WH:B} là:{qtag:WH:I} tổng giám đốc:{qtag:D_Attr:B} ngân hàng:{qtag:Obj:B} Agribank:{qtag:Obj:I} kể:{} từ:{qtag:D_Time:B} ngày:{qtag:D_Time:I} 1/2/2007:{qtag:D_Time:I} ?:{} 
+<position> Ai:{qtag:WH:B} là:{qtag:WH:I} tổng thư kí:{qtag:D_Attr:B} đầu tiên:{qtag:D_Time:B} của:{} hội:{qtag:Obj:B} nhạc sĩ:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} ?:{} 
+<position> Ai:{qtag:WH:B} là:{qtag:WH:I} tổng thư ký:{qtag:D_Attr:B} hội:{qtag:Obj:B} Nhạc sĩ:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} khóa:{qtag:D_Time:B} III:{qtag:D_Time:I} ?:{} 
+<position> Ai:{qtag:WH:B} là:{qtag:WH:I} tỷ phú:{qtag:D_Attr:B} nữ:{qtag:D_Attr:I} đầu tiên:{qtag:D_Time:B} của:{} Nga:{qtag:Obj:B} ?:{} 
+<position> Ai:{qtag:WH:B} là:{qtag:WH:I} vận động viên:{qtag:D_Attr:B} Việt Nam:{qtag:D_Loc:B} đầu tiên:{qtag:D_Time:B} giành:{qtag:V_W:B} Huy Chương:{qtag:N_W:B} Vàng:{qtag:N_W:I} tại:{} giải:{qtag:Obj:B} vô địch:{qtag:Obj:I} thế giới:{qtag:Obj:I} ?:{} 
+<position> Ai:{qtag:WH:B} là:{qtag:WH:I} vị:{qtag:D_Attr:B} hoàng đế:{qtag:D_Attr:I} đầu tiên:{qtag:D_Time:B} của:{} nhà Hậu Lê:{qtag:Obj:B} ?:{} 
+<position> Ai:{qtag:WH:B} là:{qtag:WH:I} viện trưởng:{qtag:D_Attr:B} viện kiểm sát:{qtag:Obj:B} nhân dân:{qtag:Obj:I} tối cao:{qtag:Obj:I} đầu tiên:{qtag:D_Time:B} ?:{} 
+<position> Ai:{qtag:WH:B} phát minh:{qtag:V_W:B} ra:{} điện thoại di động:{qtag:Obj:B} đầu tiên:{qtag:D_Time:B} ?:{} 
+<position> Anh hùng:{qtag:D_Attr:B} lao động:{qtag:D_Attr:I} đầu tiên:{qtag:D_Time:B} của:{} ngành:{qtag:Obj:B} y tế:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Bộ trưởng:{qtag:D_Attr:B} bộ:{qtag:Obj:B} kế hoạch:{qtag:Obj:I} và:{qtag:Obj:I} đầu tư:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Bộ trưởng:{qtag:D_Attr:B} bộ:{qtag:Obj:B} lao động:{qtag:Obj:I} thương binh:{qtag:Obj:I} và:{qtag:Obj:I} xã hội:{qtag:Obj:I} từ:{qtag:D_Time:B} 1989:{qtag:D_Time:I} đến:{qtag:D_Time:I} 1997:{qtag:D_Time:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Bộ trưởng:{qtag:D_Attr:B} bộ:{qtag:Obj:B} ngoại giao:{qtag:Obj:I} từ:{qtag:D_Time:B} 1991:{qtag:D_Time:I} đến:{qtag:D_Time:I} 2000:{qtag:D_Time:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Bộ trưởng:{qtag:D_Attr:B} bộ:{qtag:Obj:B} quốc phòng:{qtag:Obj:I} thời kỳ:{qtag:D_Time:B} 1987-1991:{qtag:D_Time:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Bộ trưởng:{qtag:D_Attr:B} bộ:{qtag:Obj:B} y tế:{qtag:Obj:I} đầu tiên:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> cây:{qtag:Obj:B} truyện ngắn:{qtag:Obj:I} hàng đầu:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Chủ nhiệm:{qtag:D_Attr:B} đầu tiên:{qtag:D_Time:B} của:{} Tổng cục:{qtag:Obj:B} Cung cấp:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Chủ tịch:{qtag:D_Attr:B} Đảng:{qtag:Obj:B} cộng sản:{qtag:Obj:I} Trung Quốc:{qtag:Obj:I} đầu tiên:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Chủ tịch:{qtag:D_Attr:B} nước:{qtag:D_Attr:I} đầu tiên:{qtag:D_Time:B} của:{} Cộng hòa:{} xã hội chủ nghĩa:{qtag:Obj:B} Việt Nam:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Chủ tịch:{qtag:D_Attr:B} nước:{qtag:D_Attr:I} đầu tiên:{qtag:D_Time:B} của:{} Cộng hòa:{qtag:Obj:B} xã hội chủ nghĩa:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Chủ tịch:{qtag:D_Attr:B} ủy ban:{qtag:D_Attr:I} trung ương:{qtag:Obj:B} mặt trận:{qtag:Obj:I} tổ quốc:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} khóa:{qtag:D_Time:B} V:{qtag:D_Time:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Giám đốc:{qtag:D_Attr:B} đại học:{qtag:Obj:B} Huế:{qtag:Obj:I} 1997-2006:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Giám đốc:{qtag:D_Attr:B} đầu tiên:{qtag:D_Time:B} của:{} Nha nghiên cứu:{qtag:Obj:B} kỹ thuật:{qtag:Obj:I} Quân giới:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Giáo sư:{qtag:D_Attr:B} triết học:{qtag:D_Attr:I} đầu tiên:{qtag:D_Time:B} của:{} Việt Nam:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Giáo sư:{qtag:D_Attr:B} vật lý:{qtag:D_Attr:I} đầu tiên:{qtag:D_Time:B} của:{} Việt Nam:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Năm:{qtag:D_Time:B} 1986:{qtag:D_Time:I} ai:{qtag:WH:B} được:{} cử:{qtag:V_W:B} làm:{qtag:V_W:I} phó bí thư:{qtag:D_Attr:B} Đảng Ủy:{qtag:Obj:B} Công an:{qtag:Obj:I} Trung Ương:{qtag:Obj:I} ?:{} 
+<position> Người:{} anh:{qtag:N_W:I} hùng:{qtag:N_W:I} áo:{qtag:N_W:I} vải:{qtag:N_W:I} của:{} dân tộc:{qtag:Obj:B} Việt Nam:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Người:{qtag:N_W:B} phụ nữ:{qtag:N_W:I} Việt Nam:{qtag:N_W:I} đầu tiên:{qtag:D_Time:B} làm:{qtag:V_W:B} Phó chủ tịch:{qtag:Obj:B} nước:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Nguyên:{qtag:D_Attr:B} Chủ tịch:{qtag:D_Attr:I} hội đồng:{qtag:D_Attr:I} nhà nước:{} Việt Nam:{qtag:Obj:B} 1987-1992:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Nguyên:{qtag:D_Attr:B} hiệu trưởng:{qtag:D_Attr:I} trường:{qtag:Obj:B} Đại học:{qtag:Obj:I} Quốc tế:{qtag:Obj:I} ĐHQG-HCM:{qtag:Obj:I} 2004-2007:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> nguyên:{qtag:D_Attr:B} Phó viện trưởng:{qtag:D_Attr:I} viện:{qtag:Obj:B} khoa học:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} (:{} 1963-1976:{qtag:D_Time:B} ):{} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Nguyên:{qtag:D_Attr:B} phó Viện trưởng:{qtag:D_Attr:I} Viện:{qtag:Obj:B} Nghiên cứu Kỹ thuật:{qtag:Obj:I} Quân giới:{qtag:Obj:I} (:{} 1951-1956:{qtag:D_Time:B} ):{} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Nhà văn:{qtag:D_Attr:B} nào là:{qtag:WH:B} Tổng trưởng:{qtag:Obj:B} Tư pháp:{qtag:Obj:I} Dân quốc:{qtag:Obj:I} năm:{qtag:D_Time:B} 1913:{qtag:D_Time:I} 
+<position> Nữ tướng:{qtag:D_Attr:B} đầu tiên:{qtag:D_Time:B} trong:{} Quân đội:{qtag:Obj:B} nhân dân:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Nữ vương:{qtag:D_Attr:B} Việt Nam:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Nữ:{qtag:D_Attr:B} chính khách:{qtag:D_Attr:I} dân tộc thiểu số:{qtag:N_W:B} đầu tiên:{qtag:D_Time:B} trúng cử:{qtag:V_W:B} Ủy viên:{qtag:Obj:B} Bộ chính trị:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Nữ:{qtag:D_Attr:B} diễn viên:{qtag:D_Attr:I} chính:{qtag:D_Attr:I} nào:{qtag:WH:B} tham gia:{qtag:V_W:B} bộ:{qtag:Obj:B} phim:{qtag:Obj:I} dòng máu anh hùng:{qtag:Obj:I} năm:{qtag:D_Time:B} 2007:{qtag:D_Time:I} ?:{} 
+<position> Phó chủ tịch:{qtag:D_Attr:B} nước:{qtag:D_Attr:I} đầu tiên:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Phó chủ tịch:{qtag:D_Attr:B} nước:{qtag:D_Attr:I} từ:{} năm:{qtag:D_Time:B} 2002:{qtag:D_Time:I} đến:{qtag:D_Time:I} 2007:{qtag:D_Time:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Thủ tướng:{qtag:D_Attr:B} đầu tiên:{qtag:D_Time:B} của:{} Việt Nam:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Thường trực:{qtag:D_Attr:B} ban:{qtag:Obj:B} bí thư:{qtag:Obj:I} Trung Ương:{qtag:Obj:B} Đảng:{qtag:Obj:I} khóa:{qtag:D_Time:B} IX:{qtag:D_Time:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Thủy tổ:{qtag:D_Attr:B} dân tộc:{qtag:Obj:B} Việt:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Tổng bí thư:{qtag:D_Attr:B} đầu tiên:{qtag:D_Time:B} của:{} Việt Nam:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Tổng thống:{qtag:D_Attr:B} cuối cùng:{qtag:D_Time:B} của:{} Việt Nam:{qtag:Obj:B} Cộng hòa:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Tổng thống:{qtag:D_Attr:B} đầu tiên:{qtag:D_Time:B} của:{} Hoa Kỳ:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Tổng thống:{qtag:D_Attr:B} đầu tiên:{qtag:D_Time:B} của:{} Nga:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Tổng thống:{qtag:D_Attr:B} đầu tiên:{qtag:D_Time:B} của:{} Việt Nam:{qtag:Obj:B} Cộng hòa:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Vị:{qtag:D_Attr:B} Hoàng đế:{qtag:D_Attr:I} đầu tiên:{qtag:D_Time:B} trong:{} lịch sử:{qtag:Obj:B} Trung Quốc:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Vị:{qtag:D_Attr:B} hoàng đế:{qtag:D_Attr:I} thứ:{qtag:D_Time:B} hai:{qtag:D_Time:I} của:{} triều đại:{qtag:Obj:B} nhà Lý:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Vị:{qtag:D_Attr:B} tổng thống:{qtag:D_Attr:I} da:{qtag:N_W:B} màu:{qtag:N_W:I} đầu tiên:{qtag:D_Time:B} của:{} Mĩ:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Vị:{qtag:D_Attr:B} vua:{qtag:D_Attr:I} cuối cùng:{qtag:D_Time:B} của:{} chế độ:{qtag:Obj:B} quân:{qtag:Obj:I} chủ:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Vị:{qtag:D_Attr:B} vua:{qtag:D_Attr:I} đầu tiên:{qtag:D_Time:B} của:{} nhà Tiền Lê:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Vị:{qtag:D_Attr:B} vua:{qtag:D_Attr:I} đầu tiên:{qtag:D_Time:B} của:{} Tào Ngụy:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Vị:{qtag:D_Attr:B} vua:{qtag:D_Attr:I} thứ:{qtag:D_Time:B} 12:{qtag:D_Time:I} nhà Nguyễn:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Viện phó:{qtag:D_Attr:B} Nha nghiên cứu kỹ thuật:{qtag:Obj:B} Quân giới:{qtag:Obj:I} năm:{qtag:D_Time:B} 1950:{qtag:D_Time:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Viện phó:{qtag:D_Attr:B} viện:{qtag:Obj:B} kỹ thuật:{qtag:Obj:I} quân sự:{qtag:Obj:I} năm:{qtag:D_Time:B} 1960:{qtag:D_Time:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Viện trưởng:{qtag:D_Attr:B} Nha nghiên cứu:{qtag:Obj:B} kỹ thuật:{qtag:Obj:I} Quân giới:{qtag:Obj:I} năm:{qtag:D_Time:B} 1950:{qtag:D_Time:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Viện trưởng:{qtag:D_Attr:B} viện:{qtag:Obj:B} công nghệ thông tin:{qtag:Obj:I} đầu tiên:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<position> Viện trưởng:{qtag:D_Attr:B} viện:{qtag:Obj:B} kỹ thuật:{qtag:Obj:I} quân sự:{qtag:Obj:I} năm:{qtag:D_Time:B} 1960:{qtag:D_Time:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> ai:{qtag:WH:B} đóng:{qtag:V_W:B} vai:{qtag:V_W:I} Núi:{qtag:V_W:I} trong:{} phim:{qtag:Obj:B} Sóng ở đáy sông:{qtag:Obj:I} ?:{} 
+<possessive> Ai:{qtag:WH:B} là:{qtag:WH:I} cha:{qtag:N_W:B} của:{} GS . Tôn Thất Bách:{qtag:Obj:B} ?:{} 
+<possessive> Ai:{qtag:WH:B} là:{qtag:WH:I} chủ biên:{qtag:D_Attr:B} cuốn sách:{qtag:Obj:B} Những:{qtag:Obj:I} dấu vết:{qtag:Obj:I} thời đại:{qtag:Obj:I} đồng thau:{qtag:Obj:I} ở:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} ?:{} 
+<possessive> Ai:{qtag:WH:B} là:{qtag:WH:I} con:{qtag:N_W:B} của:{} GS . Tôn Thất Tùng:{qtag:Obj:B} ?:{} 
+<possessive> ai:{qtag:WH:B} là:{qtag:WH:I} đạo diễn:{qtag:D_Attr:B} bộ:{qtag:Obj:B} phim:{qtag:Obj:I} Cánh đồng hoang:{qtag:Obj:I} ?:{} 
+<possessive> Ai:{qtag:WH:B} là:{qtag:WH:I} đạo diễn:{qtag:D_Attr:B} phim:{qtag:Obj:B} hoạt hình:{qtag:Obj:I} xuất sắc:{qtag:Obj:I} năm:{qtag:D_Time:B} 2005:{qtag:D_Time:I} ?:{} 
+<possessive> Ai:{qtag:WH:B} là:{qtag:WH:I} đạo diễn:{qtag:D_Attr:B} phim:{qtag:Obj:B} khoa học:{qtag:Obj:I} xuất sắc:{qtag:Obj:I} năm:{qtag:D_Time:B} 2005:{qtag:D_Time:I} ?:{} 
+<possessive> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} ghi bàn:{qtag:V_W:B} quyết định:{qtag:V_W:I} đưa:{qtag:V_W:I} Việt Nam:{qtag:Obj:B} tới:{} chức vô địch:{qtag:N_W:B} AFF:{qtag:N_W:I} 2008:{qtag:D_Time:B} ?:{} 
+<possessive> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} ghi:{qtag:V_W:B} bàn thắng:{qtag:V_W:I} trong:{} trận:{qtag:Obj:B} chung kết:{qtag:Obj:I} WorldCup:{qtag:Obj:I} 2010:{qtag:D_Time:B} ?:{} 
+<possessive> ai:{qtag:WH:B} là:{qtag:WH:I} nữ:{qtag:D_Attr:B} diễn viên:{qtag:D_Attr:I} chính:{qtag:D_Attr:I} trong:{} phim:{qtag:Obj:B} Người đẹp tây đô:{qtag:Obj:I} ?:{} 
+<possessive> Ai:{qtag:WH:B} là:{qtag:WH:I} tác giả:{qtag:D_Attr:B} bài:{qtag:Obj:B} nỗi:{qtag:Obj:I} buồn:{qtag:Obj:I} hoa:{qtag:Obj:I} phượng:{qtag:Obj:I} ?:{} 
+<possessive> Ai:{qtag:WH:B} là:{qtag:WH:I} tác giả:{qtag:D_Attr:B} bài:{qtag:Obj:B} Tình Ca:{qtag:Obj:I} ?:{} 
+<possessive> Ai:{qtag:WH:B} là:{qtag:WH:I} tác giả:{qtag:D_Attr:B} của:{} Bắc hành tạp lục:{qtag:Obj:B} ?:{} 
+<possessive> Ai:{qtag:WH:B} là:{qtag:WH:I} tác giả:{qtag:D_Attr:B} của:{} Bình Ngô:{qtag:Obj:B} đại cáo:{qtag:Obj:I} ?:{} 
+<possessive> Ai:{qtag:WH:B} là:{qtag:WH:I} tác giả:{qtag:D_Attr:B} của:{} bộ:{qtag:Obj:B} Đại Việt:{qtag:Obj:I} sử ký:{qtag:Obj:I} toàn:{qtag:Obj:I} thư:{qtag:Obj:I} ?:{} 
+<possessive> ai:{qtag:WH:B} là:{qtag:WH:I} tác giả:{qtag:D_Attr:B} của:{} bộ:{qtag:Obj:B} phim hài:{qtag:Obj:I} Đồng tiền kẽm tậu:{qtag:Obj:I} ?:{} 
+<possessive> Ai:{qtag:WH:B} là:{qtag:WH:I} tác giả:{qtag:D_Attr:B} của:{} Độc tiểu:{qtag:Obj:B} thanh kí:{qtag:Obj:I} ?:{} 
+<possessive> Ai:{qtag:WH:B} là:{qtag:WH:I} tác giả:{qtag:D_Attr:B} của:{} Đường:{qtag:Obj:B} Cách Mệnh:{qtag:Obj:I} ?:{} 
+<possessive> Ai:{qtag:WH:B} là:{qtag:WH:I} tác giả:{qtag:D_Attr:B} của:{} Nam Trung Tạp Ngâm:{qtag:Obj:B} 
+<possessive> Ai:{qtag:WH:B} là:{qtag:WH:I} tác giả:{qtag:D_Attr:B} của:{} Quân trung từ mệnh tập:{qtag:Obj:B} ?:{} 
+<possessive> Ai:{qtag:WH:B} là:{qtag:WH:I} tác giả:{qtag:D_Attr:B} của:{} Quốc Âm thi tập:{qtag:Obj:B} ?:{} 
+<possessive> Ai:{qtag:WH:B} là:{qtag:WH:I} tác giả:{qtag:D_Attr:B} của:{} Sở kiến hành:{qtag:Obj:B} ?:{} 
+<possessive> Ai:{qtag:WH:B} là:{qtag:WH:I} tác giả:{qtag:D_Attr:B} của:{} Thanh Hiên thi tập:{qtag:Obj:B} ?:{} 
+<possessive> Ai:{qtag:WH:B} là:{qtag:WH:I} tác giả:{qtag:D_Attr:B} của:{} thuyết:{qtag:Obj:B} tương đối:{qtag:Obj:I} ?:{} 
+<possessive> Ai:{qtag:WH:B} là:{qtag:WH:I} tác giả:{qtag:D_Attr:B} của:{} Truyện Kiều:{qtag:Obj:B} ?:{}
+<possessive> Ai:{qtag:WH:B} là:{qtag:WH:I} tác giả:{qtag:D_Attr:B} của:{} Ức trai:{qtag:Obj:B} thi tập:{qtag:Obj:I} ?:{} 
+<possessive> Ai:{qtag:WH:B} là:{qtag:WH:I} tác giả:{qtag:D_Attr:B} của:{} Văn tế thập loại chúng sinh:{qtag:Obj:B} ?:{} 
+<possessive> ai:{qtag:WH:B} là:{qtag:WH:I} tác giả:{qtag:D_Attr:B} kịch bản:{qtag:Obj:B} mang:{qtag:Obj:I} tên:{qtag:Obj:I} Tình không giới tuyến:{qtag:Obj:I} năm:{qtag:D_Time:B} 1958:{qtag:D_Time:I} ?:{} 
+<possessive> Ai:{qtag:WH:B} là:{qtag:WH:I} tác giả:{qtag:D_Attr:B} vở:{qtag:Obj:B} kịch:{qtag:Obj:I} Trà quán:{qtag:Obj:I} ?:{} 
+<possessive> Ai:{qtag:WH:B} sáng tác:{qtag:D_Attr:B} Long thành cầm giả ca:{qtag:Obj:B} ?:{} 
+<possessive> Ai:{qtag:WH:B} sáng tác:{qtag:V_W:B} bài:{qtag:Obj:B} dáng:{qtag:Obj:I} đứng:{qtag:Obj:I} bến tre:{qtag:Obj:I} ?:{} 
+<possessive> Ai:{qtag:WH:B} sáng tác:{qtag:V_W:B} tác phẩm:{qtag:Obj:B} Thủy Hử:{qtag:Obj:I} ?:{} 
+<possessive> album:{qtag:Obj:B} Nỗi lòng:{qtag:Obj:I} cô đơn:{qtag:Obj:I} ra đời:{qtag:V_W:B} năm:{qtag:D_Time:B} 2006:{qtag:D_Time:I} là:{qtag:WH:B} của:{qtag:WH:I} ca sỹ:{qtag:WH:I} nào:{qtag:WH:I} ?:{} 
+<possessive> Anh:{qtag:N_W:B} trai:{qtag:N_W:I} của:{} nhạc sỹ:{qtag:Obj:B} Phạm Huy Kỳ:{qtag:Obj:I} là:{} nhạc sỹ:{qtag:D_Attr:B} nào:{qtag:WH:B} ?:{} 
+<possessive> Bài hát:{qtag:Obj:B} Chuyện:{qtag:Obj:I} tình:{qtag:Obj:I} Trương Chi:{qtag:Obj:I} Mỵ Nương:{qtag:Obj:I} là:{} của:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> bài thơ:{qtag:N_W:B} nổi tiếng:{qtag:A_W:B} Tống biệt hành:{qtag:Obj:B} do:{qtag:WH:B} ai:{qtag:WH:I} sáng tác:{qtag:V_W:B} ?:{} 
+<possessive> bài thơ:{qtag:Obj:B} Đôi:{qtag:Obj:I} mắt:{qtag:Obj:I} người:{qtag:Obj:I} Sơn Tây:{qtag:Obj:I} là:{} của:{} nhà thơ:{qtag:D_Attr:B} nào:{qtag:WH:B} ?:{} 
+<possessive> Bài:{qtag:Obj:B} hát:{qtag:Obj:I} Hận:{qtag:Obj:I} Trương Chi:{qtag:Obj:I} là:{} của:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> bài:{qtag:Obj:B} hát:{qtag:Obj:I} Xe đạp:{qtag:Obj:I} teen:{qtag:Obj:I} do:{qtag:WH:B} ai:{qtag:WH:I} trình bày:{qtag:V_W:B} ?:{} 
+<possessive> Bụi:{qtag:Obj:B} bay:{qtag:Obj:I} vào:{qtag:Obj:I} mắt:{qtag:Obj:I} là:{} ca khúc:{qtag:N_W:B} của:{} ca sỹ:{qtag:D_Attr:B} nào:{qtag:WH:B} trình bày:{qtag:V_W:B} ?:{} 
+<possessive> ca khúc:{qtag:Obj:B} Đón xuân:{qtag:Obj:I} này:{qtag:Obj:I} lại:{qtag:Obj:I} nhớ:{qtag:Obj:I} xuân xưa:{qtag:Obj:I} do:{qtag:WH:B} ai:{qtag:WH:I} sáng tác:{qtag:V_W:B} ?:{} 
+<possessive> Ca khúc:{qtag:Obj:B} Những:{qtag:Obj:I} nẻo:{qtag:Obj:I} đường:{qtag:Obj:I} phù sa:{qtag:Obj:I} là:{} của:{} nhạc sỹ:{qtag:D_Attr:B} nào:{qtag:WH:B} ?:{}  
+<possessive> ca sỹ:{qtag:D_Attr:B} nào là:{qtag:WH:B} con gái:{qtag:N_W:B} của:{} nhạc sỹ:{qtag:Obj:B} Trần Hiếu:{qtag:Obj:I} ?:{} 
+<possessive> Ca sỹ:{qtag:D_Attr:B} nào là:{qtag:WH:B} em gái:{qtag:N_W:B} của:{} Lưu Thiên Hương:{qtag:Obj:B} ?:{} 
+<possessive> Cha:{qtag:N_W:B} của:{} Tư Mã Thiên:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Chị:{qtag:N_W:B} của:{} Hồ Chí Minh:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Chuyện:{qtag:Obj:B} anh:{qtag:Obj:I} Trương Chi:{qtag:Obj:I} là:{} của:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Con gái:{qtag:N_W:B} của:{} An Dương Vương:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Con gái:{qtag:N_W:B} của:{} nữ:{qtag:D_Attr:B} diễn viên:{qtag:D_Attr:I} cải lương:{qtag:D_Attr:I} Kim Xuân:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Con trưởng:{qtag:N_W:B} của:{} Lý Công Uẩn:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Con:{qtag:N_W:B} của:{} Triệu Đà:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Đạo diễn:{qtag:D_Attr:B} bộ:{qtag:Obj:B} phim:{qtag:Obj:I} Bỗng dưng:{qtag:Obj:I} muốn:{qtag:Obj:I} khóc:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Đạo diễn:{qtag:D_Attr:B} bộ:{qtag:Obj:B} phim:{qtag:Obj:I} Lũy thép Vinh Linh:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Đạo diễn:{qtag:D_Attr:B} bộ:{qtag:Obj:B} phim:{qtag:Obj:I} Những người dân quê tôi:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Đạo diễn:{qtag:D_Attr:B} lão thành:{qtag:A_W:B} của:{} điện ảnh:{qtag:Obj:B} cách mạng:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Diễn viên:{qtag:D_Attr:B} nào:{qtag:WH:B} đóng:{qtag:V_W:B} vai:{qtag:V_W:I} Tôn Ngộ Không:{qtag:N_W:B} trong:{} Tây du ký:{qtag:Obj:B} 
+<possessive> Em trai:{qtag:N_W:B} của:{} Hồ Chí Minh:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Giáo sư:{qtag:D_Attr:B} Tôn Thất Bách:{qtag:Obj:B} là:{} con:{qtag:N_W:B} của:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Hoàng Sông Hương:{qtag:Obj:B} là:{} bố:{qtag:N_W:B} của:{} ca sỹ:{qtag:D_Attr:B} nào:{qtag:WH:B} ?:{} 
+<possessive> Học thuyết:{qtag:Obj:B} của:{qtag:WH:B} ai:{qtag:WH:I} có:{} 71:{qtag:N_W:B} thiên:{qtag:N_W:I} ?:{} 
+<possessive> Hồng Lâu Mộng:{qtag:Obj:B} do:{qtag:WH:B} ai:{qtag:WH:I} viết:{qtag:V_W:B} ?:{} 
+<possessive> Kế:{qtag:Obj:B} vây Ngụy cứu Triệu:{qtag:Obj:I} là:{qtag:WH:B} của:{qtag:WH:I} ai:{qtag:WH:I} ?:{} 
+<possessive> Khối tình trong Trương chi:{qtag:Obj:B} là:{} ca khúc:{qtag:N_W:B} của:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Khúc hát:{qtag:Obj:B} Trương Chi:{qtag:Obj:I} của:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> kỷ lục:{qtag:Obj:B} số:{qtag:Obj:I} giải:{qtag:Obj:I} Grammy:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{} của:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Nam diễn viên:{qtag:D_Attr:B} chính:{qtag:D_Attr:I} trong:{} phim:{qtag:Obj:B} Bỗng dưng:{qtag:Obj:I} muốn:{qtag:Obj:I} khóc:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Người:{qtag:N_W:B} anh:{qtag:N_W:I} của:{} Hồ Chí Minh:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Nhà ngôn ngữ học:{qtag:D_Attr:B} Trung Quốc:{qtag:Obj:B} nào:{qtag:WH:B} viết:{qtag:V_W:B} Thuyết văn giải tự:{} ?:{} 
+<possessive> Nhà văn:{qtag:D_Attr:B} nào:{qtag:WH:B} viết:{qtag:V_W:B} tiểu thuyết:{qtag:Obj:B} Thương Châu:{qtag:Obj:I} ?:{} 
+<possessive> Nhạc sĩ:{qtag:D_Attr:B} nào là:{qtag:WH:B} tác giả:{qtag:D_Attr:B} bài:{qtag:Obj:B} Quốc ca:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} ?:{} 
+<possessive> nhạc sĩ:{qtag:D_Attr:B} sáng tác:{qtag:V_W:B} bài hát:{qtag:Obj:B} mưa bay tháp cổ:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Nữ:{qtag:D_Attr:B} diễn viên:{qtag:D_Attr:I} chính:{qtag:D_Attr:I} trong:{} phim:{qtag:Obj:B} Bỗng dưng:{qtag:Obj:I} muốn:{qtag:Obj:I} khóc:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Nữ:{qtag:D_Attr:B} diễn viên:{qtag:D_Attr:I} chính:{qtag:D_Attr:I} trong:{} phim:{qtag:Obj:B} Chị Dậu:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Nữ:{qtag:D_Attr:B} diễn viên:{qtag:D_Attr:I} xuất sắc:{qtag:A_W:B} trong:{} bộ:{qtag:Obj:B} phim:{qtag:Obj:I} Vĩ tuyến 17 ngày và đêm:{qtag:Obj:I} năm:{qtag:D_Time:B} 1972:{qtag:D_Time:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Nước:{qtag:Obj:B} Âu Lạc:{qtag:Obj:I} của:{} ai:{qtag:WH:B} ?:{} 
+<possessive> Sách:{qtag:Obj:B} Ngược:{qtag:Obj:I} dòng:{qtag:Obj:I} lịch sử:{qtag:Obj:I} của:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Sử gia:{qtag:D_Attr:B} Trung Quốc:{qtag:Obj:B} nào:{qtag:WH:B} là:{} cháu nội:{qtag:N_W:B} Mao Trạch Đông:{qtag:Obj:B} ?:{} 
+<possessive> Sử ký:{qtag:Obj:B} của:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Tác giả:{qtag:D_Attr:B} bài:{qtag:Obj:B} thơ:{qtag:Obj:I} Ông:{qtag:Obj:I} Đồ:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Tác giả:{qtag:D_Attr:B} của:{} bài:{qtag:Obj:B} Gửi Trương Tửu:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Tác giả:{qtag:D_Attr:B} của:{} Đông Chu:{qtag:Obj:B} Liệt Quốc:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Tác giả:{qtag:D_Attr:B} của:{} Hồng:{qtag:Obj:B} Lâu Mộng:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Tác giả:{qtag:D_Attr:B} của:{} Nha Thị gia huấn:{qtag:Obj:B} là:{} của:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Tác giả:{qtag:D_Attr:B} của:{} phần mềm:{qtag:Obj:B} chống:{qtag:Obj:I} virus:{qtag:Obj:I} máy tính:{qtag:Obj:I} Bkav:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Tác giả:{qtag:D_Attr:B} của:{} tác phẩm:{qtag:Obj:B} Đàn hương hình:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Tác giả:{qtag:D_Attr:B} của:{} Tam Quốc Diễn nghĩa:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Tác giả:{qtag:D_Attr:B} cuốn:{qtag:Obj:B} Phong thần diễn nghĩa:{qtag:Obj:I} là:{} của:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Tác giả:{qtag:D_Attr:B} nào:{qtag:WH:B} có:{} tên:{qtag:N_W:B} thật:{qtag:N_W:I} là:{} Vạn Gia Bảo:{qtag:Obj:B} 
+<possessive> Tác giả:{qtag:D_Attr:B} nào:{qtag:WH:B} nổi tiếng:{qtag:A_W:B} với:{} tác phẩm:{qtag:Obj:B} AQ chính truyện:{qtag:Obj:I} ?:{} 
+<possessive> Tác giả:{qtag:D_Attr:B} nào:{qtag:WH:B} viết:{qtag:V_W:B} tác phẩm:{qtag:Obj:B} Nhạc Dương lâu ký:{qtag:Obj:I} ?:{} 
+<possessive> Tác giả:{qtag:D_Attr:B} sách:{qtag:Obj:B} Hàn Phi Tử:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Tác giả:{qtag:D_Attr:B} tập thơ:{qtag:N_W:B} Nhật kí:{qtag:Obj:B} trong:{qtag:Obj:I} tù:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Tác giả:{qtag:D_Attr:B} tiểu thuyết:{qtag:Obj:B} Kim Vân Kiều:{qtag:Obj:I} là:{} của:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Tác giả:{qtag:D_Attr:B} vở:{qtag:Obj:B} kịch:{qtag:Obj:I} Tây sương ký:{qtag:Obj:I} ?:{} 
+<possessive> Tác phẩm:{qtag:N_W:B} Bình Ngô:{qtag:Obj:B} đại cáo:{qtag:Obj:I} là:{} của:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Tác phẩm:{qtag:N_W:B} Nam quốc:{qtag:Obj:B} sơn hà:{qtag:Obj:I} là:{} của:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Tác phẩm:{qtag:Obj:B} Tây Du Ký:{qtag:Obj:I} được:{} viết:{qtag:V_W:B} bởi:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Thân mẫu:{qtag:N_W:B} Hồ Chí Minh:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Thân phụ:{qtag:N_W:B} Hồ Chí Minh:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Thân sinh:{qtag:N_W:B} của:{} Nguyễn Khoa Điềm:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Thi phẩm:{qtag:Obj:B} Hoàng hạc lâu:{qtag:Obj:I} là:{} của:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Trương Chi:{qtag:Obj:B} là:{} ca khúc:{qtag:N_W:B} nổi tiếng:{qtag:N_W:I} của:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Truyện ngắn:{qtag:Obj:B} Nàng:{qtag:Obj:I} và:{qtag:Obj:I} Trương Chi:{qtag:Obj:I} là:{} của:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Truyện ngắn:{qtag:Obj:B} Trương Chi:{qtag:Obj:I} là:{} của:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Vi Thị Nguyệt Hồ:{qtag:Obj:B} là:{} vợ:{qtag:N_W:B} của:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<possessive> Vở kịch thơ:{qtag:Obj:B} Trương Chi:{qtag:Obj:I} là:{} của:{} thi sĩ:{qtag:D_Attr:B} nào:{qtag:WH:B} ?:{} 
+<possessive> Vợ:{qtag:N_W:B} của:{} đạo diễn:{qtag:D_Attr:B} Phạm Văn Khoa:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> ﻿Ai:{qtag:WH:B} là:{qtag:WH:I} chủ tịch:{qtag:D_Attr:B} hiện tại:{qtag:D_Time:B} của:{} Giải Nobel:{qtag:Obj:B} Hòa bình:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} đã:{} từng:{} làm:{qtag:V_W:B} nữ:{qtag:D_Attr:B} giám đốc:{qtag:D_Attr:I} điều hành:{qtag:D_Attr:I} eBay:{qtag:Obj:B} 
+<role> Ai:{qtag:WH:B} đã:{} từng:{} làm:{qtag:V_W:B} nữ:{qtag:D_Attr:I} giám đốc:{qtag:D_Attr:I} kinh doanh:{qtag:D_Attr:I} Google:{qtag:Obj:B} 
+<role> Ai:{qtag:WH:B} đang:{} là:{} nữ:{qtag:D_Attr:B} giám đốc:{qtag:D_Attr:I} công ty:{qtag:Obj:B} Jolie Siam:{qtag:Obj:I} 
+<role> Ai:{qtag:WH:B} hiện:{} điều hành:{qtag:V_W:B} công ty:{qtag:Obj:B} sản xuất:{qtag:Obj:I} cảm biến:{qtag:Obj:I} Keyence:{qtag:Obj:I} Corp:{qtag:Obj:I} .:{}  
+<role> Ai:{qtag:WH:B} là:{} chủ tịch:{qtag:D_Attr:B} thứ:{qtag:D_Time:B} ba:{qtag:D_Time:I} của:{} lịch sử:{qtag:Obj:B} Hội:{qtag:Obj:I} Nhà văn:{qtag:Obj:I} Trung Quốc:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} bộ trưởng:{qtag:D_Attr:B} bộ:{qtag:Obj:B} công thương:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} năm:{qtag:D_Time:B} 2010:{qtag:D_Time:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} bộ trưởng:{qtag:D_Attr:B} bộ:{qtag:Obj:B} ngoại giao:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} bộ trưởng:{qtag:D_Attr:B} bộ:{qtag:Obj:B} tài chính:{qtag:Obj:I} Mỹ:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} CEO:{qtag:D_Attr:B} của:{} Tập đoàn:{qtag:Obj:B} bảo hiểm:{qtag:Obj:I} Mỹ:{qtag:Obj:I} AIG:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} chính ủy:{} học viện:{qtag:Obj:B} hậu cần:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} Chính ủy:{qtag:D_Attr:B} hiện nay:{qtag:D_Time:B} của:{} Học viện:{qtag:Obj:B} quân y:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} Chính ủy:{qtag:D_Attr:B} Viện:{qtag:Obj:B} hóa học:{qtag:Obj:I} và:{qtag:Obj:I} vật liệu:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} chính ủy:{qtag:D_Attr:B} viện:{qtag:Obj:B} tên lửa:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} Chính ủy:{qtag:Obj:B} Học viện:{qtag:Obj:I} Kĩ thuật:{qtag:Obj:I} Quân sự:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} chủ nhiệm:{qtag:D_Attr:B} chính trị:{qtag:D_Attr:I} phòng:{qtag:Obj:B} chính trị:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} Kĩ thuật:{qtag:D_Loc:I} Quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> ai:{qtag:WH:B} là:{qtag:WH:I} chủ nhiệm:{qtag:D_Attr:B} toà soạn:{qtag:D_Attr:I} Báo điện tử:{qtag:Obj:B} Tin Tức Việt Đức:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} chủ tịch:{qtag:D_Attr:B} công ty:{qtag:Obj:B} Phát triển:{qtag:Obj:I} Đô thị:{qtag:Obj:I} Kinh Bắc:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} chủ tịch:{qtag:D_Attr:B} hãng:{qtag:Obj:B} công nghệ:{qtag:Obj:I} Apple:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} chủ tịch:{qtag:D_Attr:B} HĐQT:{qtag:D_Attr:I} Công ty cổ phần:{qtag:Obj:B} bất động sản:{qtag:Obj:I} Phát Đạt:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} chủ tịch:{qtag:D_Attr:B} HĐQT:{qtag:D_Attr:I} Công ty:{qtag:Obj:B} Quốc Cường:{qtag:Obj:I} Gia Lai:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} chủ tich:{qtag:D_Attr:B} HĐQT:{qtag:D_Attr:I} ngân hàng:{qtag:Obj:B} công thương:{qtag:Obj:I} Vietinbank:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} chủ tịch:{qtag:D_Attr:B} hiện tại:{qtag:D_Time:B} của:{} tập đoàn:{qtag:Obj:B} Mai Linh:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} chủ tịch:{qtag:D_Attr:B} tập đoàn:{qtag:Obj:B} bưu chính:{qtag:Obj:I} viễn thông:{qtag:Obj:I} VNPT:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} chủ tịch:{qtag:D_Attr:B} tập đoàn:{qtag:Obj:B} công nghiệp:{qtag:Obj:I} Hyundai:{qtag:Obj:I} năm:{qtag:D_Time:B} 2009:{qtag:D_Time:I} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} chủ tịch:{qtag:D_Attr:B} tập đoàn:{qtag:Obj:B} Đại Dương:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} chủ tịch:{qtag:D_Attr:B} tập đoàn:{qtag:Obj:B} Đại Dương:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} .:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} chủ tịch:{qtag:D_Attr:B} tập đoàn:{qtag:Obj:B} Hoàng Anh Gia Lai:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} chủ tịch:{qtag:D_Attr:B} tập đoàn:{qtag:Obj:B} Microsoft:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} chủ tịch:{qtag:D_Attr:B} tập đoàn:{qtag:Obj:B} T&T:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} chủ tịch:{qtag:D_Attr:B} tập đoàn:{qtag:Obj:B} Unilever:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} Chủ tịch:{qtag:D_Attr:B} Tập đoàn:{qtag:Obj:B} Vàng bạc:{qtag:Obj:I} đá quý:{qtag:Obj:I} DOJI:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} chủ tịch:{qtag:D_Attr:B} VNDIRECT:{qtag:Obj:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} giám đốc:{qtag:D_Attr:B} bệnh viện:{qtag:Obj:B} Hữu Nghị:{qtag:Obj:I} Việt Đức:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} giám đốc:{qtag:D_Attr:B} bệnh viện:{qtag:Obj:B} Phủ Doãn:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} Giám đốc:{qtag:D_Attr:B} công ty:{qtag:Obj:B} caffee Trung Nguyên:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} Giám đốc:{qtag:D_Attr:B} Đại học:{qtag:Obj:B} Quốc gia:{qtag:Obj:I} Hà Nội:{qtag:Obj:I} .:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} giám đốc:{qtag:D_Attr:B} đại học:{qtag:Obj:B} Thái Nguyên:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} giám đốc:{qtag:D_Attr:B} điều hành:{qtag:D_Attr:I} công ty:{qtag:Obj:B} phần mềm:{qtag:Obj:I} hàng đầu:{qtag:Obj:I} Oracle Corporation:{qtag:Obj:I} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} Giám đốc:{qtag:D_Attr:B} hiện nay:{qtag:D_Time:B} của:{} Học viện:{qtag:Obj:B} Quân y:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} Giám đốc:{qtag:D_Attr:B} Học viện:{qtag:Obj:B} Chính trị:{qtag:Obj:I} -:{qtag:Obj:I} Hành chính:{qtag:Obj:I} Quốc gia:{qtag:Obj:I} Hồ Chí Minh:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} Giám đốc:{qtag:D_Attr:B} Học viện:{qtag:Obj:B} Hậu cần:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} giám đốc:{qtag:D_Attr:B} Học viện:{qtag:Obj:B} Kĩ thuật:{qtag:Obj:I} Quân sự:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} Hiệu phó:{qtag:D_Attr:B} quân sự:{qtag:D_Attr:I} trường:{qtag:Obj:B} Sĩ quan:{qtag:Obj:I} công binh:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} Hiệu trưởng:{qtag:D_Attr:B} Trường:{qtag:Obj:B} Đại học:{qtag:Obj:I} Bách khoa:{qtag:Obj:I} Hà Nội:{qtag:Obj:I} .:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} Hiệu trưởng:{qtag:D_Attr:B} Trường:{qtag:Obj:B} Đại học:{qtag:Obj:I} Công nghệ thông tin:{qtag:Obj:I} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} Hiệu trưởng:{qtag:D_Attr:B} Trường:{qtag:Obj:B} Đại học:{qtag:Obj:I} Hòa Bình:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} Hiệu trưởng:{qtag:D_Attr:B} Trường:{qtag:Obj:B} Đại học:{qtag:Obj:I} Kinh tế:{qtag:Obj:I} quốc dân:{qtag:Obj:I} .:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} Hiệu trưởng:{qtag:D_Attr:B} trường:{qtag:Obj:B} sĩ quan:{qtag:Obj:I} công binh:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} Hiệu trưởng:{qtag:D_Attr:B} trường:{qtag:Obj:B} sĩ quan:{qtag:Obj:I} công binh:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} có:{} công lớn:{qtag:A_W:B} trong:{} ba:{qtag:Obj:B} lần:{qtag:Obj:I} kháng chiến:{qtag:Obj:I} chống:{qtag:Obj:I} quân:{qtag:Obj:I} Nguyên Mông:{qtag:Obj:I} ?:{} 
+<role> ai:{qtag:WH:B} là:{qtag:WH:I} nữ hoàng:{qtag:D_Attr:B} nhạc:{qtag:Obj:B} Soul:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} nữ:{qtag:D_Attr:B} giám đốc:{qtag:D_Attr:I} đối ngoại:{qtag:D_Attr:I} Sacombank:{qtag:Obj:B} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} ông chủ:{qtag:D_Attr:B} website:{qtag:Obj:B} chứng khoán:{qtag:Obj:I} nổi tiếng:{qtag:Obj:I} sanotc.com:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} Phó chính ủy:{qtag:D_Attr:B} của:{} học viện:{qtag:Obj:B} quân y:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} Phó chính ủy:{qtag:D_Attr:B} học viện:{qtag:Obj:B} hậu cần:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} Phó Giám đốc:{qtag:D_Attr:B} Đại học:{qtag:Obj:B} Quốc gia:{qtag:Obj:I} Hà Nội:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} Phó Giám đốc:{qtag:D_Attr:B} Học viện:{qtag:Obj:B} Cảnh sát:{qtag:Obj:I} nhân dân:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} Phó Giám đốc:{qtag:D_Attr:B} học viện:{qtag:Obj:B} hậu cần:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} phó Giám đốc:{qtag:D_Attr:B} hợp tác:{qtag:Obj:B} quốc tế:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} Kĩ thuật:{qtag:D_Loc:I} Quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} Phó giám đốc:{qtag:D_Attr:B} huấn luyện:{qtag:D_Attr:I} học:{qtag:Obj:B} viện:{qtag:Obj:I} hậu cần:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} Phó giám đốc:{qtag:D_Attr:B} khoa học:{qtag:D_Attr:I} Học viện:{qtag:Obj:B} hậu cần:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} Phó Giám đốc:{qtag:D_Attr:B} Khoa học:{qtag:Obj:B} Công nghệ:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} Kĩ thuật:{qtag:D_Loc:I} Quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} phó giám đốc:{qtag:D_Attr:B} phòng:{qtag:Obj:B} đào tạo:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} Kĩ thuật:{qtag:D_Loc:I} Quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} phó Giám đốc:{qtag:D_Attr:B} Quân sự:{qtag:Obj:B} hành chính:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} Kĩ thuật:{qtag:D_Loc:I} Quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} Phó hiệu trưởng:{qtag:D_Attr:B} trường:{qtag:Obj:B} sĩ quan:{qtag:Obj:I} công binh:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} phó tổng giám đốc:{} công ty:{qtag:Obj:B} chứng khoán:{qtag:Obj:I} Thăng Long:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} phó viện trưởng:{qtag:D_Attr:B} viện:{qtag:Obj:B} Điện tử:{qtag:Obj:I} -:{qtag:Obj:I} Viễn thông:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} thống đốc:{qtag:D_Attr:B} ngân hàng:{qtag:Obj:B} nhà nước:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} thủ tướng:{qtag:D_Attr:B} nước:{qtag:Obj:B} canada:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} thủ tướng:{qtag:D_Attr:B} nước:{qtag:Obj:B} Cộng hòa:{qtag:Obj:I} Nhân dân:{qtag:Obj:I} Trung Hoa:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} tổng bí thư:{qtag:D_Attr:B} hiện nay:{qtag:D_Time:B} của:{} Việt Nam:{qtag:Obj:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} tổng giám đốc:{qtag:D_Attr:B} BaoViet Bank:{qtag:Obj:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} tổng giám đốc:{qtag:D_Attr:B} BIM:{qtag:Obj:B} Corporation:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} tổng giám đốc:{qtag:D_Attr:B} Công ty:{qtag:Obj:B} Kềm Nghĩa:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} tổng giám đốc:{qtag:D_Attr:B} công ty:{qtag:Obj:B} Kinh Đô:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} tổng giám đốc:{qtag:D_Attr:B} công ty:{qtag:Obj:B} may:{qtag:Obj:I} Nhà bè:{qtag:Obj:I} NBC:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} tổng giám đốc:{qtag:D_Attr:B} công ty:{qtag:Obj:B} PNJ:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} tổng giám đốc:{qtag:D_Attr:B} công ty:{qtag:Obj:B} Vincom:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} tổng giám đốc:{qtag:D_Attr:B} của:{} tập đoàn:{qtag:Obj:B} bưu chính:{qtag:Obj:I} viễn:{qtag:Obj:I} thông:{qtag:Obj:I} VNPT:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} tổng giám đốc:{qtag:D_Attr:B} của:{} tập đoàn:{qtag:Obj:B} FPT:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} tổng giám đốc:{qtag:D_Attr:B} FPT:{qtag:Obj:B} Media:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} tổng giám đốc:{qtag:D_Attr:B} Indochina Airlines:{qtag:Obj:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} tổng giám đốc:{qtag:D_Attr:B} ngân hàng:{qtag:Obj:B} Đông Á:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} tổng giám đốc:{qtag:D_Attr:B} tập đoàn:{qtag:Obj:B} viễn thông:{qtag:Obj:I} quân đội:{qtag:Obj:I} Viettel:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} tổng Giám đốc:{qtag:D_Attr:B} VietnamWorks:{qtag:Obj:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} tổng giám đốc:{qtag:Obj:B} điều hành:{qtag:Obj:I} của:{} hãng:{qtag:Obj:B} máy tính:{qtag:Obj:I} Apple:{qtag:Obj:I} ?:{} 
+<role> ai:{qtag:WH:B} là:{qtag:WH:I} trưởng ban:{qtag:D_Attr:B} tổ chức:{qtag:D_Attr:I} giải thưởng:{qtag:Obj:B} Nhà báo:{qtag:Obj:I} với:{qtag:Obj:I} trẻ em:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} 2006-2007:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} trưởng phòng:{qtag:D_Attr:B} phòng:{qtag:Obj:B} đào tạo:{qtag:Obj:I} đại học:{qtag:Obj:I} Học viện:{qtag:Obj:B, D_Loc:B} Kĩ thuật:{qtag:Obj:I, D_Loc:I} Quân sự:{qtag:Obj:I, D_Loc:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} trưởng phòng:{qtag:D_Attr:B} phòng:{qtag:Obj:B} đào tạo:{qtag:Obj:I} sau đại học:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} Kĩ thuật:{qtag:D_Loc:I} Quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} trưởng phòng:{qtag:D_Attr:B} phòng:{qtag:Obj:B} Hậu cần:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} Kĩ thuật:{qtag:D_Loc:I} Quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} trưởng phòng:{qtag:D_Attr:B} phòng:{qtag:Obj:B} Hợp tác:{qtag:Obj:I} quốc tế:{qtag:Obj:I} và:{qtag:Obj:I} Quản lí:{qtag:Obj:I} lưu học sinh:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} Kĩ thuật:{qtag:D_Loc:I} Quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} trưởng phòng:{qtag:D_Attr:B} phòng:{qtag:Obj:B} khảo thí:{qtag:Obj:I} và:{qtag:Obj:I} đảm bảo:{qtag:Obj:I} chất lượng:{qtag:Obj:I} đào tạo:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} Kĩ thuật:{qtag:D_Loc:I} Quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} trưởng phòng:{qtag:D_Attr:B} phòng:{qtag:Obj:B} KH-CN:{qtag:Obj:I} và:{qtag:Obj:I} MT:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} Kĩ thuật:{qtag:D_Loc:I} Quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} trưởng phòng:{qtag:D_Attr:B} phòng:{qtag:Obj:B} kĩ thuật:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} Kĩ thuật:{qtag:D_Loc:I} Quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} trưởng phòng:{qtag:D_Attr:B} phòng:{qtag:Obj:B} quản lí:{qtag:Obj:I} khoa học:{qtag:Obj:I} và:{qtag:Obj:I} công nghệ:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} Kĩ thuật:{qtag:D_Loc:I} Quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} viện phó:{qtag:D_Attr:B} viện:{qtag:Obj:B} toán học:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} Viện trưởng:{qtag:D_Attr:B} Viện:{qtag:Obj:B} Đào tạo:{qtag:Obj:I} sau:{qtag:Obj:I} đại học:{qtag:Obj:I} ,:{} Trường:{qtag:N_W:B} Đại học:{qtag:N_W:I} Nông nghiệp:{qtag:N_W:I} Hà Nội:{qtag:N_W:I} ?:{} 
+<role> Ai:{qtag:WH:B} là:{qtag:WH:I} Viện trưởng:{qtag:D_Attr:B} Viện:{qtag:Obj:B} Tâm lý học:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} ?:{} 
+<role> Ai:{qtag:WH:B} trở thành:{qtag:V_W:B} giám đốc:{qtag:D_Attr:B} điều hành:{qtag:D_Attr:I} Microsoft Corporation:{qtag:Obj:B} năm:{qtag:D_Time:B} 2000:{qtag:D_Time:I} 
+<role> Bí thư:{qtag:D_Attr:B} thành ủy:{qtag:Obj:B} Hà Nội:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Bí thư:{qtag:D_Attr:B} thành ủy:{qtag:Obj:B} Thành phố:{qtag:Obj:I} Hồ Chí Minh:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Bí thư:{qtag:D_Attr:B} tỉnh Ủy:{qtag:Obj:B} Bắc Giang:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Bí thư:{qtag:D_Attr:B} tỉnh Ủy:{qtag:Obj:B} Bắc Kạn:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Bộ trưởng:{qtag:D_Attr:B} bộ:{qtag:Obj:B} Công an:{qtag:Obj:I} 1998-2002:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Bộ trưởng:{qtag:D_Attr:B} bộ:{qtag:Obj:B} Công An:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Bộ trưởng:{qtag:D_Attr:B} bộ:{qtag:Obj:B} Công thương:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Bộ trưởng:{qtag:D_Attr:B} bộ:{qtag:Obj:B} giáo dục:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Bộ trưởng:{qtag:D_Attr:B} bộ:{qtag:Obj:B} giao thông:{qtag:Obj:I} vận tải:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Bộ trưởng:{qtag:D_Attr:B} bộ:{qtag:Obj:B} khoa học:{qtag:Obj:I} và:{qtag:Obj:I} công nghệ:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Bộ trưởng:{qtag:D_Attr:B} bộ:{qtag:Obj:B} Lao động:{qtag:Obj:I} thương binh:{qtag:Obj:I} và:{qtag:Obj:I} xã hội:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Bộ trưởng:{qtag:D_Attr:B} bộ:{qtag:Obj:B} Nội vụ:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Bộ trưởng:{qtag:D_Attr:B} bộ:{qtag:Obj:B} Nông nghiệp:{qtag:Obj:I} và:{qtag:Obj:I} phát triển:{qtag:Obj:I} Nông thôn:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Bộ trưởng:{qtag:D_Attr:B} bộ:{qtag:Obj:B} quốc phòng:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Bộ trưởng:{qtag:D_Attr:B} bộ:{qtag:Obj:B} Tài chính:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Bộ trưởng:{qtag:D_Attr:B} bộ:{qtag:Obj:B} tài nguyên:{qtag:Obj:I} và:{qtag:Obj:I} môi trường:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Bộ trưởng:{qtag:D_Attr:B} bộ:{qtag:Obj:B} Thông tin:{qtag:Obj:I} và:{qtag:Obj:I} truyền thông:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Bộ trưởng:{qtag:D_Attr:B} bộ:{qtag:Obj:B} Tư pháp:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Bộ trưởng:{qtag:D_Attr:B} bộ:{qtag:Obj:B} Văn hóa:{qtag:Obj:I} -:{qtag:Obj:I} Thể thao:{qtag:Obj:I} và:{qtag:Obj:I} du lịch:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Bộ trưởng:{qtag:D_Attr:B} bộ:{qtag:Obj:B} văn hóa:{qtag:Obj:I} -:{qtag:Obj:I} thông tin:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Bộ trưởng:{qtag:D_Attr:B} bộ:{qtag:Obj:B} Xây dựng:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Bộ trưởng:{qtag:D_Attr:B} bộ:{qtag:Obj:B} y tế:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chánh án:{qtag:D_Attr:B} tòa án:{qtag:Obj:B} nhân dân:{qtag:Obj:I} tối cao:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chánh văn phòng:{qtag:D_Attr:B} viện:{qtag:Obj:B} khoa học:{qtag:Obj:I} và:{qtag:Obj:I} công nghệ:{qtag:Obj:I} quân sự:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chính trị viên:{qtag:D_Attr:B} Viện:{qtag:Obj:B} công nghệ thông tin:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chính ủy:{qtag:D_Attr:B} học viện:{qtag:Obj:B} kỹ thuật:{qtag:Obj:I} quân sự:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chính ủy:{qtag:D_Attr:B} viện:{qtag:Obj:B} khoa học:{qtag:Obj:I} và:{qtag:Obj:I} công nghệ:{qtag:Obj:I} quân sự:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chủ nhiệm:{qtag:D_Attr:B} khoa Hàng không:{qtag:Obj:B} vũ trụ:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} kỹ thuật:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chủ nhiệm:{qtag:D_Attr:B} khoa:{qtag:Obj:B} Chỉ huy:{qtag:Obj:I} tham mưu:{qtag:Obj:I} kỹ thuật:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} kỹ thuật:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chủ nhiệm:{qtag:D_Attr:B} khoa:{qtag:Obj:B} Cơ khí:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} kỹ thuật:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chủ nhiệm:{qtag:D_Attr:B} khoa:{qtag:Obj:B} Công nghệ thông tin:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} kỹ thuật:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{} là:{} ai:{} ?:{} 
+<role> Chủ nhiệm:{qtag:D_Attr:B} khoa:{qtag:Obj:B} Công tác:{qtag:Obj:I} Đảng:{qtag:Obj:I} và:{qtag:Obj:I} Chính trị:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} kỹ thuật:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chủ nhiệm:{qtag:D_Attr:B} khoa:{qtag:Obj:B} Công trình:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} kỹ thuật:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chủ nhiệm:{qtag:D_Attr:B} khoa:{qtag:Obj:B} Động lực:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} kỹ thuật:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chủ nhiệm:{qtag:D_Attr:B} khoa:{qtag:Obj:B} Hóa-Lý:{qtag:Obj:I} kỹ thuật:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} kỹ thuật:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chủ nhiệm:{qtag:D_Attr:B} khoa:{qtag:Obj:B} khoa học:{qtag:Obj:I} quân sự:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} kỹ thuật:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chủ nhiệm:{qtag:D_Attr:B} khoa:{qtag:Obj:B} Kỹ thuật:{qtag:Obj:I} điều khiển:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} kỹ thuật:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chủ nhiệm:{qtag:D_Attr:B} khoa:{qtag:Obj:B} Mác-Leenin:{qtag:Obj:I} và:{qtag:Obj:I} Tư tưởng:{qtag:Obj:I} Hồ Chí Minh:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} kỹ thuật:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chủ nhiệm:{qtag:D_Attr:B} khoa:{qtag:Obj:B} Ngoại ngữ:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} kỹ thuật:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chủ nhiệm:{qtag:D_Attr:B} khoa:{qtag:Obj:B} Thể dục:{qtag:Obj:I} thể thao:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} kỹ thuật:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chủ nhiệm:{qtag:D_Attr:B} khoa:{qtag:Obj:B} Vô tuyến:{qtag:Obj:I} điện tử:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} kỹ thuật:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chủ nhiệm:{qtag:D_Attr:B} khoa:{qtag:Obj:B} Vũ khí:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} kỹ thuật:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chủ nhiệm:{qtag:D_Attr:B} phòng:{qtag:D_Attr:I} chính trị:{qtag:D_Attr:I} viện:{qtag:Obj:B} khoa học:{qtag:Obj:I} và:{qtag:Obj:I} công nghệ:{qtag:Obj:I} quân sự:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chủ nhiệm:{qtag:D_Attr:B} phòng:{qtag:Obj:B} Chính trị:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} kỹ thuật:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chủ nhiệm:{qtag:D_Attr:B} phòng:{qtag:Obj:B} Hậu cần:{qtag:Obj:I} Học viện:{qtag:Obj:B, D_Loc:B} kỹ thuật:{qtag:Obj:I, D_Loc:I} quân sự:{qtag:Obj:I, D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chủ nhiệm:{qtag:D_Attr:B} phòng:{qtag:Obj:B} Hậu cần:{qtag:Obj:I} viện:{qtag:D_Loc:B} khoa học:{qtag:D_Loc:I} và:{qtag:D_Loc:I} công nghệ:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chủ nhiệm:{qtag:D_Attr:B} phòng:{qtag:Obj:B} kỹ thuật:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} kỹ thuật:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chủ nhiệm:{qtag:D_Attr:B} Phòng:{qtag:Obj:B} Kỹ thuật:{qtag:Obj:I} viện:{qtag:D_Loc:B} khoa học:{qtag:D_Loc:I} và:{qtag:D_Loc:I} công nghệ:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chủ tịch:{qtag:D_Attr:B} hội đồng quản trị:{qtag:D_Attr:I} tập đoàn:{qtag:Obj:B} Hà Đô:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chủ tịch:{qtag:D_Attr:B} hội đồng:{qtag:D_Attr:I} khoa học:{qtag:D_Attr:I} Viện:{qtag:Obj:B} Địa chất:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chủ tịch:{qtag:D_Attr:B} Hội đồng:{qtag:D_Attr:I} khoa học:{qtag:D_Attr:I} viện:{qtag:Obj:B} vật lý:{qtag:Obj:I} và:{qtag:Obj:I} điện tử:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chủ tịch:{qtag:D_Attr:B} Hội đồng:{qtag:Obj:B} Khoa học:{qtag:Obj:I} và:{qtag:Obj:I} Đào tạo:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} kỹ thuật:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chủ tịch:{qtag:D_Attr:B} nước:{qtag:Obj:B} cộng hòa:{qtag:Obj:I} nhân dân:{qtag:Obj:I} Trung Hoa:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chủ tịch:{qtag:D_Attr:B} nước:{qtag:Obj:B} Việt Nam:{qtag:Obj:I} năm:{qtag:D_Time:B} 2010:{qtag:D_Time:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chủ tịch:{qtag:D_Attr:B} Quốc hội:{qtag:Obj:B} khóa:{qtag:Obj:I} 1:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chủ tịch:{qtag:D_Attr:B} tổng hội:{qtag:D_Attr:I} y học:{qtag:Obj:B} Việt Nam:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Chủ tịch:{qtag:D_Attr:B} Viện:{qtag:Obj:B} Khoa học:{qtag:Obj:I} và:{qtag:Obj:I} công nghệ:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Giám đốc:{qtag:D_Attr:B} bệnh viện:{qtag:Obj:B} Đồn Thủy:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Giám đốc:{qtag:D_Attr:B} bệnh viện:{qtag:Obj:B} Phủ Doãn:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Giám đốc:{qtag:D_Attr:B} công ty:{qtag:Obj:B} 3C:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Giám đốc:{qtag:D_Attr:B} công ty:{qtag:Obj:B} TECARPRO:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Giám đốc:{qtag:D_Attr:B} công ty:{qtag:Obj:B} Tư vấn:{qtag:Obj:I} đầu tư:{qtag:Obj:I} và:{qtag:Obj:I} phát triển:{qtag:Obj:I} công nghệ:{qtag:Obj:I} AIC:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Giám đốc:{qtag:D_Attr:B} học viện:{qtag:Obj:B} kỹ thuật:{qtag:Obj:I} mật mã:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Giám đốc:{qtag:D_Attr:B} Học viện:{qtag:Obj:B} Kỹ thuật:{qtag:Obj:I} Quân sự:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Giám đốc:{qtag:D_Attr:B} phòng thí nghiệm:{qtag:Obj:B} trọng điểm:{qtag:Obj:I} quốc gia:{qtag:Obj:I} về:{} An toàn:{qtag:N_W:B} thông tin:{qtag:N_W:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Giám đốc:{qtag:D_Attr:B} trung tâm:{qtag:Obj:B} công nghệ cơ khí:{qtag:Obj:I} chính xác:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Giám đốc:{qtag:D_Attr:B} trung tâm:{qtag:Obj:B} điện tử:{qtag:Obj:I} và:{qtag:Obj:I} tin học:{qtag:Obj:I} EIC:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Giám đốc:{qtag:D_Attr:B} trung tâm:{qtag:Obj:B} Kỹ thuật:{qtag:Obj:I} các:{qtag:Obj:I} công trình:{qtag:Obj:I} đặc biệt:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Giám đốc:{qtag:D_Attr:B} trung tâm:{qtag:Obj:B} kỹ thuật:{qtag:Obj:I} Viễn thông:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Giám đốc:{qtag:D_Attr:B} trung tâm:{qtag:Obj:B} Kỹ thuật:{qtag:Obj:I} vũ khí:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Giám đốc:{qtag:D_Attr:B} viện:{qtag:Obj:B} khoa học:{qtag:Obj:I} và:{qtag:Obj:I} công nghệ:{qtag:Obj:I} quân sự:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Hiện nay:{qtag:D_Time:B} ,:{} ai:{qtag:WH:B} đang:{qtag:V_W:B} giữ:{qtag:V_W:I} chức:{qtag:V_W:I} bộ trưởng:{qtag:Obj:B} bộ:{qtag:Obj:I} Khoa học:{qtag:Obj:I} -:{qtag:Obj:I} Công nghệ:{qtag:Obj:I} ?:{} 
+<role> Hiện nay:{qtag:D_Time:B} ,:{} ai:{qtag:WH:B} là:{qtag:WH:I} chủ tịch:{qtag:D_Attr:B} liên đoàn:{qtag:Obj:B} bóng đá:{qtag:Obj:I} Đông Nam Á:{qtag:Obj:I} AFF:{qtag:Obj:I} ?:{} 
+<role> Hiện nay:{qtag:D_Time:B} ,:{} ai:{qtag:WH:B} là:{qtag:WH:I} chủ tịch:{qtag:D_Attr:B} Liên đoàn:{qtag:Obj:B} bóng đá:{qtag:Obj:I} thế giới:{qtag:Obj:I} FIFA:{qtag:Obj:I} ?:{} 
+<role> Người:{} nào là:{qtag:WH:B} viện phó:{qtag:D_Attr:B} viện:{qtag:Obj:B} toán học:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} ?:{} 
+<role> Nguyên:{qtag:D_Attr:B} Giám đốc:{qtag:D_Attr:I} trung tâm:{qtag:Obj:B} Toán:{qtag:Obj:I} -:{qtag:Obj:I} Máy tính:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Nhà văn:{qtag:D_Attr:B} nào là:{qtag:WH:B} lãnh tụ:{qtag:Obj:B} phái Duy Tân:{qtag:Obj:I} ở:{qtag:D_Loc:B} Trung Quốc:{qtag:D_Loc:I} ?:{} 
+<role> Nữ hoàng:{qtag:D_Attr:B} của:{} Vương quốc:{qtag:Obj:B} Anh:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó Chánh văn phòng:{qtag:D_Attr:B} viện:{qtag:Obj:B} khoa học:{qtag:Obj:I} và:{qtag:Obj:I} công nghệ:{qtag:Obj:I} quân sự:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó chính ủy:{qtag:D_Attr:B} Học viện:{qtag:Obj:B} kỹ thuật:{qtag:Obj:I} quân sự:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó chủ nhiệm:{qtag:D_Attr:B} phòng:{qtag:D_Attr:I} chính trị:{qtag:D_Attr:I} viện:{qtag:Obj:B} khoa học:{qtag:Obj:I} và:{qtag:Obj:I} công nghệ:{qtag:Obj:I} quân sự:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó chủ nhiệm:{qtag:D_Attr:B} phòng:{qtag:Obj:B} Hậu cần:{qtag:Obj:I} viện:{qtag:Obj:B, D_Loc:B} khoa học:{qtag:Obj:I, D_Loc:I} và:{qtag:Obj:I, D_Loc:I} công nghệ:{qtag:Obj:I, D_Loc:I} quân sự:{qtag:Obj:I, D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó chủ nhiệm:{qtag:D_Attr:B} phòng:{qtag:Obj:B} kỹ thuật:{qtag:Obj:I} viện:{qtag:D_Loc:B} khoa học:{qtag:D_Loc:I} và:{qtag:D_Loc:I} công nghệ:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó chủ tịch:{qtag:D_Attr:B} Hội đồng:{qtag:D_Attr:I} Khoa học:{qtag:D_Attr:I} Viện:{qtag:Obj:B} Địa chất:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó chủ tịch:{qtag:D_Attr:B} Hội đồng:{qtag:D_Attr:I} khoa học:{qtag:D_Attr:I} viện:{qtag:Obj:B} vật lý:{qtag:Obj:I} và:{qtag:Obj:I} điện tử:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó chủ tịch:{qtag:D_Attr:B} nước:{qtag:D_Attr:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó chủ tịch:{qtag:D_Attr:B} viện:{qtag:Obj:B} khoa học:{qtag:Obj:I} và:{qtag:Obj:I} công nghệ:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó giám đốc:{qtag:D_Attr:B} công ty:{qtag:Obj:B} TECARPRO:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó giám đốc:{qtag:D_Attr:B} phòng thí nghiệm:{qtag:Obj:B} trọng điểm:{qtag:Obj:I} quốc gia:{qtag:Obj:I} về:{} An toàn:{qtag:N_W:B} thông tin:{qtag:N_W:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó giám đốc:{qtag:D_Attr:B} phòng:{qtag:Obj:B} đào tạo:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} kỹ thuật:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó Giám đốc:{qtag:D_Attr:B} phòng:{qtag:Obj:B} hợp tác:{qtag:Obj:I} quốc tế:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} kỹ thuật:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó giám đốc:{qtag:D_Attr:B} phòng:{qtag:Obj:B} khoa học:{qtag:Obj:I} công nghệ:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} kỹ thuật:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó giám đốc:{qtag:D_Attr:B} phòng:{qtag:Obj:B} quân sự:{qtag:Obj:I} hành chính:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} kỹ thuật:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó giám đốc:{qtag:D_Attr:B} trung tâm:{qtag:Obj:B} công nghệ cơ khí:{qtag:Obj:I} chính xác:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó giám đốc:{qtag:D_Attr:B} viện:{qtag:Obj:B} khoa học:{qtag:Obj:I} và:{qtag:Obj:I} công nghệ:{qtag:Obj:I} quân sự:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó phòng:{qtag:D_Attr:B} đào tạo:{qtag:D_Attr:I} Viện:{qtag:Obj:B} khoa học:{qtag:Obj:I} và:{qtag:Obj:I} công nghệ:{qtag:Obj:I} quân sự:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó phòng:{qtag:D_Attr:B} Phòng:{qtag:Obj:B} tài chính:{qtag:Obj:I} viện:{qtag:D_Loc:B} khoa học:{qtag:D_Loc:I} và:{qtag:D_Loc:I} công nghệ:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:N_W:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó phòng:{qtag:D_Attr:B} Phòng:{qtag:Obj:B} tham mưu:{qtag:Obj:I} -:{qtag:Obj:I} Kế hoạch:{qtag:Obj:I} của:{} viện:{qtag:Obj:B, D_Loc:B} khoa học:{qtag:Obj:I, D_Loc:I} và:{qtag:Obj:I, D_Loc:I} công nghệ:{qtag:Obj:I, D_Loc:I} quân sự:{qtag:Obj:I, D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó phòng:{qtag:D_Attr:B} Phòng:{qtag:Obj:B} Thông tin:{qtag:Obj:I} KHQS:{qtag:Obj:I} viện:{qtag:Obj:B, D_Loc:B} khoa học:{qtag:Obj:I, D_Loc:I} và:{qtag:Obj:I, D_Loc:I} công nghệ:{qtag:Obj:I, D_Loc:I} quân sự:{qtag:Obj:I, D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó thủ tướng:{qtag:D_Attr:B} thường trực:{qtag:D_Attr:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó tổng thống:{qtag:D_Attr:B} Hoa Kỳ:{qtag:Obj:B} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó viện trưởng:{qtag:D_Attr:B} viện:{qtag:Obj:B} công nghệ thông tin:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó viện trưởng:{qtag:D_Attr:B} viện:{qtag:Obj:B} công nghệ:{qtag:Obj:I} mới:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó viện trưởng:{qtag:D_Attr:B} viện:{qtag:Obj:B} Địa chất:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó viện trưởng:{qtag:D_Attr:B} viện:{qtag:Obj:B} Điện tử:{qtag:Obj:I} -:{qtag:Obj:I} Viễn thông:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó viện trưởng:{qtag:D_Attr:B} viện:{qtag:Obj:B} hóa học:{qtag:Obj:I} và:{qtag:Obj:I} vật liệu:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó viện trưởng:{qtag:D_Attr:B} viện:{qtag:Obj:B} Ra-đa:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó viện trưởng:{qtag:D_Attr:B} viện:{qtag:Obj:B} tự động:{qtag:Obj:I} hóa:{qtag:Obj:I} kỹ thuật:{qtag:Obj:I} quân sự:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó viện trưởng:{qtag:D_Attr:B} viện:{qtag:Obj:B} vật lý:{qtag:Obj:I} và:{qtag:Obj:I} điện tử:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Phó viện trưởng:{qtag:D_Attr:B} viện:{qtag:Obj:B} vật lý:{qtag:Obj:I} y sinh học:{qtag:Obj:I} Thành Phố:{qtag:Obj:I} Hồ Chí Minh:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Thư ký:{qtag:D_Attr:B} hội đồng:{qtag:D_Attr:I} khoa học:{qtag:D_Attr:I} viện:{qtag:Obj:B} vật lý:{qtag:Obj:I} và:{qtag:Obj:I} điện tử:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Thứ trưởng:{qtag:D_Attr:B} bộ:{qtag:Obj:B} khoa học:{qtag:Obj:I} và:{qtag:Obj:I} công nghệ:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Thứ trưởng:{qtag:D_Attr:B} bộ:{qtag:Obj:B} quốc phòng:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Thứ trưởng:{qtag:D_Attr:B} thường trực:{qtag:D_Attr:I} Bộ:{qtag:Obj:B} Lao động:{qtag:Obj:I} ,:{qtag:Obj:I} thương binh:{qtag:Obj:I} và:{qtag:Obj:I} xã hội:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Thủ tướng:{qtag:D_Attr:B} chính phủ:{qtag:D_Attr:I} Việt Nam:{qtag:Obj:B} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Thủ tướng:{qtag:D_Attr:B} Nga:{qtag:Obj:B} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Thủ tướng:{qtag:D_Attr:B} Nhật Bản:{qtag:Obj:B} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Thường trực:{qtag:Obj:B} ban:{qtag:Obj:I} bí thư:{qtag:Obj:I} Trung Ương:{qtag:Obj:I} Đảng:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Tổng biên tập:{qtag:D_Attr:B} tạp chí:{qtag:Obj:B} nghiên cứ:{qtag:Obj:I} khoa học:{qtag:Obj:I} và:{qtag:Obj:I} công nghệ:{qtag:Obj:I} quân sự:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Tổng giám đốc:{qtag:D_Attr:B} tập đoàn:{qtag:Obj:B} Hà Đô:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Tổng thống:{qtag:D_Attr:B} Hàn Quốc:{qtag:Obj:B} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Tổng thống:{qtag:D_Attr:B} hiện nay:{qtag:D_Time:B} của:{} Nga:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Tổng thống:{qtag:D_Attr:B} Hoa kỳ:{qtag:D_Obj:B} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Tổng thống:{qtag:D_Attr:B} Pháp:{qtag:Obj:B} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Tổng thư ký:{qtag:D_Attr:B} liên hiệp quốc:{qtag:Obj:B} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Trưởng ban:{qtag:D_Attr:B} tổ chức:{qtag:D_Attr:I} Trung Ương:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> trưởng ban:{qtag:D_Attr:B} văn nghệ:{qtag:D_Attr:I} đài:{qtag:Obj:B} tiếng nói:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Trưởng phòng:{} phòng:{qtag:Obj:B} đào tạo:{qtag:Obj:I} Sau đại học:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} kỹ thuật:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{} là:{} ai:{} ?:{} 
+<role> Trưởng phòng:{qtag:D_Attr:B} đào tạo:{qtag:D_Attr:I} Viện:{qtag:Obj:B} khoa học:{qtag:Obj:I} và:{qtag:Obj:I} công nghệ:{qtag:Obj:I} quân sự:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Trưởng phòng:{qtag:D_Attr:B} Phòng tham mưu:{qtag:Obj:B} -:{qtag:Obj:I} Kế hoạch:{qtag:Obj:I} của:{} viện:{qtag:D_Loc:B} khoa học:{qtag:D_Loc:I} và:{qtag:D_Loc:I} công nghệ:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Trưởng phòng:{qtag:D_Attr:B} phòng:{qtag:Obj:B} đào tạo:{qtag:Obj:I} Đại học:{qtag:Obj:I} Học Viện:{qtag:D_Loc:B} kỹ thuật:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Trưởng phòng:{qtag:D_Attr:B} Phòng:{qtag:Obj:B} Hợp tác:{qtag:Obj:I} Quốc tế:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} Kỹ thuật:{qtag:D_Loc:I} Quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Trưởng phòng:{qtag:D_Attr:B} Phòng:{qtag:Obj:B} quản lý:{qtag:Obj:I} Khoa học:{qtag:Obj:I} và:{qtag:Obj:I} công nghệ:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} kỹ thuật:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Trưởng phòng:{qtag:D_Attr:B} Phòng:{qtag:Obj:B} tài chính:{qtag:Obj:I} Viện:{qtag:D_Loc:B} khoa học:{qtag:D_Loc:I} và:{qtag:D_Loc:I} công nghệ:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Trưởng phòng:{qtag:D_Attr:B} Phòng:{qtag:Obj:B} Thông tin:{qtag:Obj:I} KH-CN:{qtag:Obj:I} và:{qtag:Obj:I} MT:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} kỹ thuật:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Trưởng phòng:{qtag:D_Attr:B} Phòng:{qtag:Obj:B} Thông tin:{qtag:Obj:I} KHQS:{qtag:Obj:I} viện:{qtag:D_Loc:B} khoa học:{qtag:D_Loc:I} và:{qtag:D_Loc:I} công nghệ:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Trưởng phòng:{qtag:WH:B, D_Attr:B} Phòng:{qtag:Obj:B} Khảo thí:{qtag:Obj:I} và:{qtag:Obj:I} đảm bảo:{qtag:Obj:I} chất lượng:{qtag:Obj:I} đào tạo:{qtag:Obj:I} Học viện:{qtag:D_Loc:B} Kỹ thuật:{qtag:D_Loc:I} quân sự:{qtag:D_Loc:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Viện phó:{qtag:D_Attr:B} viện:{qtag:Obj:B} toán học:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Viện trưởng:{qtag:D_Attr:B} viện kiểm sát:{qtag:Obj:B} nhân dân:{qtag:Obj:I} tối cao:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Viện trưởng:{qtag:D_Attr:B} viện:{qtag:Obj:B} Công nghệ Mô phỏng:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Viện trưởng:{qtag:D_Attr:B} viện:{qtag:Obj:B} công nghệ thông tin:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Viện trưởng:{qtag:D_Attr:B} viện:{qtag:Obj:B} công nghệ thông tin:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Viện trưởng:{qtag:D_Attr:B} viện:{qtag:Obj:B} công nghệ:{qtag:Obj:I} mới:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Viện trưởng:{qtag:D_Attr:B} viện:{qtag:Obj:B} công tố:{qtag:Obj:I} trung ương:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Viện trưởng:{qtag:D_Attr:B} viện:{qtag:Obj:B} địa chất:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Viện trưởng:{qtag:D_Attr:B} viện:{qtag:Obj:B} Điện tử:{qtag:Obj:I} -:{qtag:Obj:I} Viễn thông:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Viện trưởng:{qtag:D_Attr:B} viện:{qtag:Obj:B} hóa học:{qtag:Obj:I} và:{qtag:Obj:I} vật liệu:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Viện trưởng:{qtag:D_Attr:B} viện:{qtag:Obj:B} Hóa học:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Viện trưởng:{qtag:D_Attr:B} viện:{qtag:Obj:B} Ra-đa:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Viện trưởng:{qtag:D_Attr:B} viện:{qtag:Obj:B} tên lửa:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Viện trưởng:{qtag:D_Attr:B} viện:{qtag:Obj:B} toán học:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Viện trưởng:{qtag:D_Attr:B} viện:{qtag:Obj:B} tự động:{qtag:Obj:I} hóa:{qtag:Obj:I} kỹ thuật:{qtag:Obj:I} quân sự:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Viện trưởng:{qtag:D_Attr:B} viện:{qtag:Obj:B} vật lý:{qtag:Obj:I} kỹ thuật:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Viện trưởng:{qtag:D_Attr:B} viện:{qtag:Obj:B} Vật lý:{qtag:Obj:I} Thành phố:{qtag:Obj:I} Hồ Chí Minh:{qtag:Obj:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Viện trưởng:{qtag:D_Attr:B} viện:{qtag:Obj:B} vật lý:{qtag:Obj:I} và:{qtag:Obj:I} điện tử:{qtag:Obj:I} Việt Nam:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Viện trưởng:{qtag:D_Attr:B} viện:{qtag:Obj:B} vật lý:{qtag:Obj:I} y sinh học:{qtag:Obj:I} Thành phố:{qtag:Obj:I} Hồ Chí Minh:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<role> Vua:{qtag:D_Attr:B} Bảo Đại:{qtag:Obj:B} lấy:{qtag:V_W:B} ai:{qtag:WH:B} ?:{} 
+<title> ai:{qtag:WH:B} là:{qtag:WH:I} người:{} dẫn chương trình:{qtag:V:W} trò chơi:{qtag:Obj:I} âm nhạc:{qtag:Obj:I} hiện nay:{qtag:D_Time:B} ?:{} 
+<title> Ai:{qtag:WH:B} là:{qtag:WH:I} người:{} đóng:{qtag:V_W:B} vai:{qtag:V_W:I} ma cà rồng:{qtag:N_W:B} trong:{} phim:{qtag:Obj:B} chạng vạng:{qtag:Obj:I} ?:{} 
+<title> Cầu thủ:{qtag:D_Attr:B} nào:{qtag:WH:B} có:{} thu nhập:{qtag:N_W:B} cao:{qtag:A_W:B} nhất:{qtag:A_W:I} thế giới:{qtag:Obj:I} năm:{qtag:D_Time:B} 2007:{qtag:D_Time:I} ?:{} 
+<title> Diễn viên:{qtag:D_Attr:B} Hàn Quốc:{qtag:Obj:B} nổi bật:{qtag:A_W:B} trong:{} K-biz:{qtag:Obj:B} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<title> Diễn viên:{qtag:D_Attr:B} làm:{qtag:V_W:B} Thống đốc:{qtag:Obj:B} California:{qtag:Obj:I} thứ:{qtag:D_Time:B} 38:{qtag:D_Time:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
+<title> diễn viên:{qtag:D_Attr:B} nào:{qtag:WH:B} làm:{qtag:V_W:B} MC:{qtag:V_W:I} trong:{} chương trình:{qtag:Obj:B} Bếp Việt:{qtag:Obj:I} ?:{} 
+<title> Nhà thơ:{qtag:D_Attr:B} Trung Quốc:{qtag:Obj:B} nổi tiếng:{qtag:A_W:B} thời:{qtag:D_Time:B} nhà Đường:{qtag:D_Time:I} là:{qtag:WH:B} ai:{qtag:WH:I} ?:{} 
