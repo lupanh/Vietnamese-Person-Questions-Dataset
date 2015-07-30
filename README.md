@@ -12,9 +12,9 @@ Mô tả về tập nhãn được sử dụng trong tập dữ liệu:
 | D_Time | Nhãn đặc trưng về thời gian |	
 | D_Loc | Nhãn đặc trưng về địa điểm, nơi chốn |	
 | D_Other | Các đặc trưng khác |	
-| A_W | Nhãn đặc trưng về cụm tính từ tác động lên đối tượng |	
-| V_W | Nhãn đặc trưng về cụm động từ tác động lên đối tượng |	
-| N_W | Nhãn đặc trưng về cụm danh từ tác động lên đối tượng |	
+| A_W | Nhãn đặc trưng về cụm tính từ tác động lên tân ngữ |	
+| V_W | Nhãn đặc trưng về cụm động từ tác động lên tân ngữ |	
+| N_W | Nhãn đặc trưng về cụm danh từ tác động lên tân ngữ |	
 | Obj | Nhãn tân ngữ trực tiếp bị tác động trong câu hỏi |	
 | O | Nhãn khác |	
 
