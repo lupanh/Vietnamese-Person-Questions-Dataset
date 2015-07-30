@@ -1,11 +1,11 @@
-Vietnamese-Person-Questions-Dataset
-----------
 Tập dữ liệu các câu hỏi về người trong tiếng Việt đã được gán nhãn.
+----------
 
 ### Tập nhãn
 
 Mô tả về tập nhãn được sử dụng trong tập dữ liệu:
-| Ký hiệu    | Ý nghĩa |
+
+| Ký hiệu | Ý nghĩa |
 | ------------- | ------------- |
 | WH | Nhãn đặc trưng về loại câu hỏi |	
 | D_Attr | Nhãn đặc trưng về nghề nghiệp, chức vụ  |	
